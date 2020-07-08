@@ -5,56 +5,43 @@ import requests
 import time
 import pandas as pd
 
-
-def get_songs(userID, playlistID, sp):
-    ids = []
-    playlist = sp.user_playlist(userID, playlistID)
-    for item in playlist['tracks']['items']:
-        track = item['track']
-        ids.append(track['id'])
-    return ids
-
-def getTrackFeatures(id, sp):
-    meta = sp.track(id)
-    features = sp.audio_features(id)
-
-    # meta
-    name = meta['name']
-    album = meta['album']['name']
-    artist = meta['album']['artists'][0]['name']
-    release_date = meta['album']['release_date']
-    length = meta['duration_ms']
-    popularity = meta['popularity']
-
-    # features
-    acousticness = features[0]['acousticness']
-    danceability = features[0]['danceability']
-    energy = features[0]['energy']
-    instrumentalness = features[0]['instrumentalness']
-    liveness = features[0]['liveness']
-    loudness = features[0]['loudness']
-    speechiness = features[0]['speechiness']
-    tempo = features[0]['tempo']
-    time_signature = features[0]['time_signature']
-
-    track = [name, album, artist, release_date, length, popularity, danceability, acousticness, danceability, energy,
-             instrumentalness, liveness, loudness, speechiness, tempo, time_signature]
+def datascrape(user_id = 'spotify', playlist_id = None, sp = None):
     
-    return track
-
-
-def get(ids, sp):
-    # loop over track ids 
-    tracks = []
-    for i in range(len(ids)):
-        time.sleep(1)
-        track = getTrackFeatures(ids[i], sp)
-        tracks.append(track)
-
-    # create dataset
-    df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 
-                                         'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 
-                                         'speechiness', 'tempo', 'time_signature'])
+    # music metadata
+    results = sp.user_playlist(user_id, playlist_id, 'tracks')
     
-    return df
-    #df.to_csv("spotify.csv", sep = ',')
+    playlist_tracks_data = results['tracks']
+    playlist_tracks_id = []
+    playlist_tracks_titles = []
+    playlist_tracks_artists = []
+    playlist_tracks_first_artists = []
+    
+    for track in playlist_tracks_data['items']:
+        playlist_tracks_id.append(track['track']['id'])
+        playlist_tracks_titles.append(track['track']['name'])
+
+        # retrieve artist names
+        artist_list = []
+        for artist in track['track']['artists']:
+            artist_list.append(artist['name'])
+
+        playlist_tracks_artists.append(artist_list)
+        playlist_tracks_first_artists.append(artist_list[0])
+    
+    
+    # music features
+    features = sp.audio_features(playlist_tracks_id)
+    features_df = pd.DataFrame(data=features, columns=features[0].keys())
+    
+    features_df['title'] = playlist_tracks_titles
+    features_df['first_artist'] = playlist_tracks_first_artists
+    features_df['all_artists'] = playlist_tracks_artists
+    #features_df = features_df.set_index('id')
+    features_df = features_df[['title', 'first_artist', 'all_artists', 'id',
+                               'danceability', 'energy', 'key', 'loudness',
+                               'mode', 'acousticness', 'instrumentalness',
+                               'liveness', 'valence', 'tempo',
+                               'duration_ms', 'time_signature']]
+
+    return features_df
+

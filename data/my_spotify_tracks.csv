@@ -1,0 +1,495 @@
+title,first_artist,all_artists,id,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Don't You,G5SH,['G5SH'],6dOtW0CfQOGr3Y5OZVsNlb,0.693,0.703,7,-5.516,1,0.00215,0.000117,0.209,0.497,130.069,157075,4
+If You Wanna,Perfume,['Perfume'],7Gk4yhNhOQ35ukXdmW4zWl,0.567,0.806,9,-2.04,1,0.293,0.195,0.242,0.724,149.976,163584,4
+In My Feelings,Drake,['Drake'],0bAkKNCQfWkexHFn7fIKns,0.735,0.482,8,-9.445,1,0.00623,0.0144,0.448,0.315,181.995,217933,4
+City Lights (feat. EVO+ & Jinmenusagi),HyperJuice,"['HyperJuice', 'EVO', 'Jinmenusagi']",41rLrTjd0p9Z1LI1jeeFHb,0.738,0.82,0,-3.181,1,0.0573,0.0,0.161,0.549,131.025,248141,4
+Save ME,BTS,['BTS'],0RB00aMsmBlr91i9r4Sfib,0.606,0.778,1,-4.393,1,0.0255,0.0,0.0819,0.528,139.865,196559,4
+SAD!,XXXTENTACION,['XXXTENTACION'],3ee8Jmje8o58CHK66QrVC2,0.74,0.613,8,-4.88,1,0.258,0.00372,0.123,0.473,75.023,166606,4
+Ocean (feat. Khalid),Martin Garrix,"['Martin Garrix', 'Khalid']",3nc420PXjTdBV5TN0gCFkS,0.506,0.693,0,-7.265,0,0.584,9.58e-05,0.0891,0.221,139.912,216420,4
+Do What I Want,Lil Uzi Vert,['Lil Uzi Vert'],4IWGnyOHDrVZEtPWfs4s7q,0.681,0.701,9,-6.336,1,0.106,0.0,0.208,0.398,139.952,175203,4
+쩔어 DOPE,BTS,['BTS'],0pGHou9D7JTMKbMfOLKy50,0.619,0.889,10,-3.108,0,0.0483,0.0,0.324,0.622,77.058,240021,4
+我不浪漫,Kimberley Chen,['Kimberley Chen'],60K4pIh2MiKveSXxgG4ouq,0.655,0.75,2,-3.234,0,0.0335,0.0,0.127,0.593,87.0,250378,4
+Young Dumb & Broke,Khalid,['Khalid'],5Z3GHaZ6ec9bsiI5BenrbY,0.798,0.539,1,-6.351,1,0.199,1.66e-05,0.165,0.394,136.949,202547,4
+櫻花樹下,Hins Cheung,['Hins Cheung'],2FgDWCqMCIAATvqr9ozeYm,0.415,0.498,9,-5.022,1,0.659,0.0,0.197,0.3,143.68,249987,4
+Like A Mercedes,Lexie Liu,['Lexie Liu'],1PJcFbsMcKLjZgklxrHPAN,0.608,0.727,1,-7.282,0,0.0377,0.0,0.0888,0.504,166.051,212823,4
+rockstar (feat. 21 Savage),Post Malone,"['Post Malone', '21 Savage']",0e7ipj03S05BNilyu5bRzt,0.585,0.52,5,-6.136,0,0.124,7.01e-05,0.131,0.129,159.801,218147,4
+Need U Now,Julia Wu,['Julia Wu'],6yIaJDuVNOxENVkzyILhCi,0.627,0.568,5,-7.092,1,0.301,0.0,0.168,0.472,127.774,188743,4
+有何不可,許嵩,['許嵩'],5rXBmcYNJYMYdhwxlMLh0s,0.549,0.521,6,-6.119,1,0.472,1.96e-06,0.0978,0.771,202.017,240027,4
+日落大道,梁博,['梁博'],7qIm3F7GqOrigJsKadawEZ,0.581,0.47,11,-8.344,1,0.128,4.33e-05,0.112,0.235,128.076,275435,4
+One Dance,Drake,"['Drake', 'WizKid', 'Kyla']",12VWzyPDBCc8fqeWCAfNwR,0.792,0.625,1,-5.609,1,0.00776,0.00188,0.329,0.37,103.967,173987,4
+戀愛達人,Show Luo,['Show Luo'],7yem27EktuPjs9JqYWCiZz,0.763,0.615,0,-6.664,1,0.0534,0.0,0.127,0.624,98.007,210267,4
+Better Now,Post Malone,['Post Malone'],7dt6x5M1jzdTEt8oCbisTK,0.68,0.578,10,-5.804,1,0.331,0.0,0.135,0.341,145.038,231267,4
+Realize - Myanmar Version,Rose Quartz,['Rose Quartz'],1jS6puyhOgHIEH6pl5FMZp,0.785,0.869,9,-3.067,1,0.326,1.89e-05,0.0501,0.216,106.01,222736,4
+我只是你的夢境,Astro Bunny,['Astro Bunny'],012ngpf9pRtNLWnWVBVPop,0.622,0.862,4,-7.099,0,0.0493,0.000688,0.354,0.315,104.018,223817,4
+僕はロボットごしの君に恋をする,THE SxPLAY,['THE SxPLAY'],39Gho28UEGPOmhPuFCNgWS,0.709,0.677,9,-3.677,1,0.774,0.0,0.155,0.375,109.976,290293,4
+敢 Roleplay,Lu Han,['Lu Han'],3m1nz39Ke2fLUEb1AOdEUR,0.788,0.824,9,-6.432,1,0.0613,5.28e-06,0.0283,0.653,143.954,159314,4
+Going Bad (feat. Drake),Meek Mill,"['Meek Mill', 'Drake']",2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,4,-6.365,0,0.259,0.0,0.252,0.544,86.003,180522,4
+勇敢去愛吧,Tiger Hu,['Tiger Hu'],798A1AbXluls2TtL3rKkSU,0.647,0.793,5,-4.919,1,0.106,1.14e-06,0.37,0.585,99.937,238653,4
+打個牌,G5SH,['G5SH'],0V6luheDNQz5KexcDWET0P,0.702,0.654,11,-6.175,0,0.0339,2.06e-06,0.0779,0.62,120.985,214215,4
+望,張涵雅,['張涵雅'],0IczofX5iiwUhTeH54EpSy,0.64,0.836,3,-9.8,1,0.377,0.000171,0.141,0.386,137.985,218500,4
+我當你空氣,WONFU,['WONFU'],6PGJkZrbR06YVnS0w4thLk,0.795,0.659,1,-6.274,0,0.123,2.07e-05,0.169,0.65,119.932,235668,4
+Feels Great (feat. Fetty Wap & CVBZ),Cheat Codes,"['Cheat Codes', 'Fetty Wap', 'CVBZ']",5uu28fUesZMl89lf9CLrgN,0.522,0.833,0,-3.715,1,0.0454,0.0,0.127,0.296,180.009,193569,4
+天使見證的愛情,蕭秉治,"['蕭秉治', 'Erika']",46k8JnUuYVu8yWtC3VN8wo,0.637,0.717,7,-6.793,1,0.153,0.0,0.078,0.518,160.027,203199,4
+多愛,G5SH,['G5SH'],7lmJuMOXIPplwz8TphSZdF,0.7,0.705,1,-4.76,0,0.0249,0.0,0.104,0.235,144.013,226221,4
+Love Lies (with Normani),Khalid,"['Khalid', 'Normani']",45Egmo7icyopuzJN0oMEdk,0.708,0.648,6,-5.626,1,0.0956,0.0,0.134,0.338,143.955,201707,4
+Dawn of us,Jackson Wang,['Jackson Wang'],2NpKyrIlJOHszUS2cXpEMU,0.834,0.588,0,-6.243,1,0.387,4.25e-06,0.112,0.489,141.944,179834,4
+我好想好想你,蕭秉治,['蕭秉治'],1OGfogSzNgcmfZTblG7bi5,0.523,0.613,5,-5.812,0,0.0873,0.0,0.128,0.246,81.531,259162,4
+情侶鞋,G5SH,['G5SH'],7wPZGWCCpP6wpzrxjiKJzy,0.71,0.654,6,-5.356,1,0.0709,0.0,0.207,0.622,101.94,182806,4
+當我成了妳,呆寶靜,['呆寶靜'],62KHwCjpfVY2kpRq3OCDsz,0.931,0.865,7,-5.098,1,0.575,0.00065,0.109,0.712,105.011,172365,4
+Strawberries & Cigarettes,Troye Sivan,['Troye Sivan'],2z7UKVsBdbA7HFPunDKDP4,0.514,0.539,9,-8.696,1,0.158,0.0,0.0902,0.274,168.062,201547,4
+I Need U,BTS,['BTS'],3RlcLpMmRvSd84Uw6Yt4Iw,0.486,0.88,5,-3.097,0,0.0215,0.0,0.24,0.71,158.043,210987,4
+8TEEN,Khalid,['Khalid'],5bgwqaRSS3M8WHWruHgSL5,0.83,0.585,1,-5.802,1,0.225,0.00209,0.0576,0.642,105.03,228600,4
+Stay,TAEYEON,['TAEYEON'],1fvLCkVS7xfD5kvUzzacoS,0.631,0.725,2,-2.449,1,0.127,0.0,0.118,0.414,104.953,252977,4
+Noi Nay Co Anh,Sơn Tùng M-TP,['Sơn Tùng M-TP'],6efaWmqWQxnWFGcFN2BqDW,0.523,0.85,0,-5.245,1,0.0449,0.000827,0.13,0.37,91.983,260128,4
+Tower Light Fireworks,iMeiden,"['iMeiden', 'Rachie']",0GbffRMuecaBb3hesnN26x,0.597,0.637,2,-8.988,1,0.384,0.0,0.303,0.585,99.975,258600,4
+OTW,Khalid,"['Khalid', '6LACK', 'Ty Dolla $ign']",6Hgh47WXVKtXN5zGOu0hjI,0.652,0.678,2,-6.183,1,0.183,3.26e-05,0.106,0.28,72.989,263014,4
+一笑傾城,Silence Wang,['Silence Wang'],0L7rQrY1zzUYUzJAkUuZ0B,0.734,0.661,0,-7.869,1,0.0603,2.93e-06,0.0886,0.36,117.98,231910,4
+This Is the Moment,Selectracks,['Selectracks'],7iGf7mj3yfIdPSJR2GYpSa,0.532,0.88,7,-4.972,1,0.00123,0.00169,0.214,0.708,98.013,219107,4
+半天空檔,Kaho Hung,['Kaho Hung'],5NCCX9hbf2BmJ47bSebdc3,0.709,0.724,0,-5.751,1,0.175,0.0,0.257,0.785,111.484,206768,4
+View,SHINee,['SHINee'],46E1ic6n099e76t5J1TbHn,0.728,0.801,6,-4.428,0,0.04,0.0,0.0415,0.656,123.953,190821,4
+Somebody,The Chainsmokers,"['The Chainsmokers', 'Drew Love']",3pWcj8hxj3fsb9TDAcMpEl,0.532,0.616,10,-7.074,0,0.186,0.0,0.0928,0.292,101.883,223147,4
+Blood Sweat & Tears,BTS,['BTS'],5RGf8qn1TBWVplLyyKUsuV,0.583,0.885,0,-3.571,0,0.0244,0.0,0.357,0.601,92.959,217052,4
+Killin' Me (aNueNue MC色彩吉他宣傳曲),Gail,['Gail'],5PpPbVrs8A420BrabyPOGa,0.843,0.465,2,-8.574,1,0.531,0.0,0.163,0.697,133.925,156716,4
+You Can Be MY GirlFriend,KUN,['KUN'],1txiXz73N9Ji7DMep90YgJ,0.846,0.758,6,-3.245,1,0.0445,0.0,0.189,0.668,127.999,184163,4
+Taiwan - 夜店用加長型,曾博恩,"['曾博恩', 'DJ Hauer']",44vzvejnz8RJTAHErLmuZq,0.768,0.781,6,-3.53,1,0.0521,0.013,0.0942,0.826,128.016,281250,4
+潮共,JB,['JB'],0MLvveZtOJDYtJZWqyPEol,0.797,0.655,10,-7.845,0,0.848,0.0,0.257,0.589,83.899,117143,4
+Side Effects - Acapella,Mike Tompkins,"['Mike Tompkins', 'Alex Porat']",7bGaiexQ6DJWO3D48GBoYs,0.733,0.834,10,-5.852,0,0.156,0.0,0.151,0.377,110.047,173718,4
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,"['Post Malone', 'Swae Lee']",0RiRZpuVRbi7oqRdSMwhQY,0.755,0.522,2,-4.368,1,0.533,0.0,0.0685,0.925,89.96,157560,4
+最好的樣子,滴妹,['滴妹'],5wRR0UqcuHg5NTrtpRs5T8,0.807,0.836,5,-4.415,0,0.335,0.0,0.114,0.837,115.983,203864,4
+Police In Helicopter - Original Mix,Mike Pimenta,"['Mike Pimenta', 'Jessica']",51QDoDL4xDjMUPlpqJKXt0,0.757,0.325,0,-14.836,1,0.23,0.0789,0.113,0.18,114.991,206609,4
+Enjoy,Mazeh,['Mazeh'],1mnG9MYL4fuJQgtwx6EGfl,0.854,0.252,7,-20.994,1,0.863,0.489,0.0826,0.892,120.077,80150,4
+No Apology (Wala Akong Paki),Karencitta,['Karencitta'],7CFwuPpVRhdJ7EwqC0vfXe,0.78,0.674,6,-5.869,1,0.0144,6.27e-06,0.17,0.604,105.018,166857,4
+ツキアカリ,Sakurako Ohara,['Sakurako Ohara'],3WYfOFUjN5Ib8btitmrc9D,0.769,0.679,7,-5.088,1,0.223,0.0,0.343,0.752,107.018,188107,4
+Summers Still Burning,Reiji Kawaguchi,['Reiji Kawaguchi'],1RD9eut6TDso1KclSxxJLa,0.738,0.683,11,-6.212,0,0.124,0.0,0.208,0.552,133.958,212253,4
+Gurenge,LiSA,['LiSA'],23DbzwNJSLo7nkSWjODMvY,0.545,0.979,4,-2.8,0,0.00339,0.000118,0.0775,0.309,135.002,238587,4
+Negai Anokorono Kimie,Mirei Toyama,['Mirei Toyama'],5IKxIziA8UIs0QguQb6rTv,0.529,0.638,2,-4.909,1,0.343,0.0,0.302,0.286,169.145,340427,4
+ギミギミ,BENI,['BENI'],1iLHoMwhuY4sguA4gLGCk3,0.71,0.77,6,-5.092,1,0.234,0.0,0.0707,0.787,95.033,222547,4
+BOY MEETS GIRL,Rude-α,['Rude-α'],28IvfZ1XlyDRRrcWhE7soC,0.811,0.88,11,-3.949,1,0.149,0.0,0.0452,0.805,113.039,234533,4
+Stand By You,Official HIGE DANdism,['Official HIGE DANdism'],6SzML1m0wK3edW6RbH3oxT,0.609,0.869,1,-5.129,1,0.00864,0.0,0.283,0.626,154.024,256132,4
+I Think I'm Falling,KOHH,['KOHH'],716CUwN2lYiz2cmcZGHvBo,0.753,0.841,0,-4.751,0,0.211,7.92e-05,0.35,0.485,134.931,233428,4
+Prince,sanari,['sanari'],4QJzhJ4yPMOr9GP2kSLGqK,0.802,0.838,9,-5.172,1,0.224,0.0,0.0852,0.675,99.989,249660,4
+YOKOHAMA Blues,SEKAI NO OWARI,['SEKAI NO OWARI'],1EJOWPgFH4ThdIFdvbKA2B,0.736,0.799,6,-5.493,0,0.188,3.09e-06,0.318,0.788,95.043,292515,4
+Lost In Japan,Shawn Mendes,['Shawn Mendes'],79esEXlqqmq0GPz0xQSZTV,0.713,0.738,10,-6.784,1,0.255,0.0,0.106,0.425,105.027,201200,4
+イマガイイ,MINMI,"['MINMI', 'JP THE WAVY']",4TNL5wGPD5sqtCspw4DcKu,0.709,0.655,7,-8.191,0,0.00231,2.61e-06,0.133,0.248,124.941,248667,4
+Pauwi Nako,PDL,"['PDL', 'Skusta Clee', 'Jnske', 'Bullet D', 'Yuridope', 'Flow G']",2tzAN1L07SNwnOdgOEeuQr,0.657,0.746,1,-6.277,1,0.0175,0.0,0.107,0.467,136.887,341574,4
+Money,Miquela,['Miquela'],7dW77OTAuGxwlz4QDHUFUa,0.836,0.573,10,-7.332,1,0.177,0.0,0.0604,0.731,142.034,190141,4
+Tropical 1st single album 'Mwah' - Mwah,Tropical,['Tropical'],0bkANyJx9oD9I5XMChIeCy,0.721,0.862,1,-3.162,1,0.114,0.0,0.0524,0.567,109.992,181814,4
+Baby I Love U,TEE,['TEE'],7yThEzCgdwVL9IlAKW3bDO,0.664,0.677,1,-5.271,1,0.401,0.0,0.0716,0.277,93.008,313907,4
+シリタイ,SPICY CHOCOLATE,"['SPICY CHOCOLATE', 'C&K', 'Cyberjapan Dancers']",4Ryu1fgkteIc5VlJOifEyS,0.673,0.851,8,-3.869,0,0.0591,0.0,0.114,0.491,105.009,288667,4
+BLUE SAPPHIRE,Hiroomi Tosaka,['Hiroomi Tosaka'],7hi6jXqicGD6MIb5H8Ktwk,0.634,0.898,10,-3.942,0,0.0638,0.0,0.236,0.843,99.033,212300,4
+Looped Up (feat. VERNON),tobi lou,"['tobi lou', 'Vernon']",5InZzHAvyMPSMEXT4AeDQ3,0.781,0.651,8,-7.062,0,0.262,1.47e-06,0.115,0.345,91.984,271314,4
+Song Request 신청곡 (feat. SUGA of BTS),Lee So Ra,"['Lee So Ra', 'SUGA']",57jBcQUCJaIUTRbqBmW7D1,0.482,0.59,2,-7.144,1,0.707,0.000361,0.141,0.454,175.795,281067,4
+Waktu Yang Salah,Fiersa Besari,"['Fiersa Besari', 'Thantri']",4qgIQcskrvj6nlypTvBm5k,0.665,0.276,7,-11.053,1,0.788,0.0,0.099,0.299,130.07,325947,4
+LONELY NIGHTS,tofubeats,['tofubeats'],2cBVXCi2n4VztEzq25HoA7,0.866,0.704,11,-6.628,0,0.363,0.0,0.0696,0.884,134.019,236484,4
+Playboy Style (feat. Charli XCX & Bhad Bhabie),Clean Bandit,"['Clean Bandit', 'Charli XCX', 'Bhad Bhabie']",3uYOVV9hpYLk6scE9xvAqt,0.723,0.648,11,-6.522,0,0.0551,3.61e-05,0.298,0.369,151.035,220067,4
+Never Let You In,DJ SODA,"['DJ SODA', 'Walshy Fire']",0VqMwyDQLfsEF7YZZPMV5m,0.86,0.525,5,-8.93,0,0.0136,2.46e-05,0.101,0.329,102.972,195728,4
+Fantasy,Sang Min Lim,['Sang Min Lim'],2B1eD4sQSmc6URphgGKnOf,0.764,0.574,1,-7.147,1,0.426,0.0,0.672,0.204,119.027,192400,4
+何様,SKY-HI,"['SKY-HI', 'Boku no Lyric no Boyomi']",5ZOLh4Vuk2pDdYk20AtF7q,0.688,0.734,0,-5.316,0,0.0551,0.0,0.136,0.221,149.999,174280,4
+Mirage,Sezairi,['Sezairi'],3D25C0kj7TvfTUJukgjast,0.74,0.654,0,-6.749,1,0.42,0.0,0.0988,0.672,89.974,205480,4
+WAKARIMASEN,MIYACHI,['MIYACHI'],7F3YLWjeHH696v4az3Emtx,0.805,0.664,8,-7.915,0,0.251,0.0,0.249,0.906,143.961,197773,4
+Long Flight,TAEYONG,['TAEYONG'],4hHRHdPzKTpobGyyW9ipNg,0.688,0.861,5,-2.789,0,0.203,1.47e-06,0.127,0.875,148.065,198293,4
+LOOK AT ME NOW,sudannayuzuyully,['sudannayuzuyully'],7tbW7bNy8wsEnhY4MbP9Hw,0.714,0.848,10,-3.996,0,0.134,0.00373,0.185,0.7,130.021,189067,4
+"Back to Life - from ""Bumblebee""",Hailee Steinfeld,['Hailee Steinfeld'],16geeCnXrbiomV1IZ8Kudc,0.638,0.659,10,-6.215,0,0.0127,0.0,0.187,0.341,103.029,233858,4
+Right and Left,Survive Said The Prophet,['Survive Said The Prophet'],3aebringvaYqzX9e6qV0pu,0.392,0.947,7,-3.31,1,0.045,0.0,0.119,0.583,113.11,187373,4
+夏夜のマジック,Indigo la End,['Indigo la End'],144pIQC3mpmUkZXMt8fIwb,0.465,0.818,2,-3.855,0,0.222,0.0,0.216,0.669,80.024,305640,4
+What a life,EXO-SC,['EXO-SC'],3TfLZodlQ1TzNpdrc4KXR5,0.862,0.782,5,-3.811,0,0.301,0.0,0.143,0.847,135.029,203867,4
+LOVE. FEAT. ZACARI.,Kendrick Lamar,"['Kendrick Lamar', 'Zacari']",6PGoSes0D9eUDeeAafB2As,0.8,0.585,10,-7.343,1,0.264,0.0,0.153,0.779,126.058,213400,4
+Maria,김아중,['김아중'],1EV9aadh7iTZetS5L7jcu9,0.637,0.733,11,-3.748,1,0.00226,0.00168,0.0534,0.657,80.056,187687,4
+不是我不明白,Fish Leong,"['Fish Leong', 'Crowd Lu']",22Dglcz1VwyXTCEBt6PIdG,0.625,0.341,7,-6.949,1,0.796,0.0,0.0764,0.199,130.127,281573,4
+Chillaxing,Amber An,['Amber An'],4LcTgpWNstApQIVrttI5Rp,0.749,0.952,5,-2.036,1,0.151,0.0,0.0985,0.953,145.003,220981,4
+不想逃,Dizzy Dizzo,['Dizzy Dizzo'],5qOxmMiZxqjvcYiWHNAeRB,0.741,0.606,7,-6.3,0,0.0374,0.00148,0.111,0.477,100.0,194507,4
+備胎 (feat. Eetu Kalavainen),R-chord,"['R-chord', 'Eetu Kalavainen']",6OuBzoZm0GHYzPNGlvB3yx,0.5,0.746,10,-8.797,1,0.00783,0.0,0.385,0.629,77.996,272004,4
+Circles,Ananya Birla,['Ananya Birla'],7AJ6YMAAKCnYRkt67caC9T,0.65,0.546,7,-7.67,1,0.203,0.0,0.237,0.439,97.974,231398,4
+Boku Ga Shinou To Omottanowa,Mika Nakashima,['Mika Nakashima'],1n8OcweHlwX1NM7xqNCNw4,0.546,0.567,8,-6.9,1,0.0913,8.43e-06,0.0969,0.384,167.769,380560,4
+不想,阿涵,['阿涵'],3znCaGUwljl5plPdLskKuV,0.546,0.417,3,-8.334,1,0.784,0.0,0.0985,0.218,74.067,259137,4
+Sleeping Beauty (Digital Farm Animals Remix),End of the World,"['End of the World', 'Epik High', 'Digital Farm Animals']",4yotkduLtJwi9TPyYHetUr,0.75,0.703,6,-4.28,1,0.17,0.0003,0.5,0.447,106.016,219067,4
+Wonderland,iri,['iri'],3DMz5XiVasCKSHXgYrSc9i,0.724,0.829,0,-5.759,1,0.325,0.000979,0.0855,0.528,95.006,224787,4
+失眠電影院,慢慢說,['慢慢說'],0dxiRSDmyK0x2xioagE1Tq,0.64,0.373,6,-8.619,1,0.654,0.0,0.163,0.361,78.073,247133,4
+Sober - English Version,HYO,"['HYO', 'Ummet Ozcan']",78cEmtHsaekYyw4Z12oBR2,0.739,0.815,1,-3.824,0,0.0239,8.2e-05,0.0547,0.6,114.982,178435,4
+在你的世界存在,Shelby Wang,['Shelby Wang'],4j7e9ugc8lBk49uvyQpyM6,0.352,0.434,6,-7.138,1,0.625,0.0,0.123,0.399,206.108,240120,3
+K歌之王,Angela Hui,['Angela Hui'],0TTmqCr0n0J2UpnJmCEvrz,0.352,0.291,8,-9.274,1,0.682,0.0,0.3,0.264,76.681,248062,4
+Elevate,Jua,['Jua'],5RSizqADue4KCSy1og5v7P,0.714,0.485,8,-10.1,0,0.518,0.0,0.136,0.364,110.045,139823,4
+Going Bad (feat. Drake),Meek Mill,"['Meek Mill', 'Drake']",2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,4,-6.365,0,0.259,0.0,0.252,0.544,86.003,180522,4
+我當你空氣,WONFU,['WONFU'],6PGJkZrbR06YVnS0w4thLk,0.795,0.659,1,-6.274,0,0.123,2.07e-05,0.169,0.65,119.932,235668,4
+Going,CTS,['CTS'],5BRj4Qr46gdtOhwQvFag6I,0.665,0.892,11,-4.648,1,0.2,0.0,0.327,0.6,100.02,230400,4
+Still Love You - (三立偶像劇「三明治女孩的逆襲」片尾曲),Marcus Chang,['Marcus Chang'],4FitmlhA1Os7v0heqjVVML,0.489,0.555,8,-8.979,1,0.346,0.0,0.115,0.253,148.641,215786,4
+Rules,Tabitha Nauser,['Tabitha Nauser'],46Esc8yrlmqGVDBF5S4nYU,0.668,0.824,8,-6.99,0,0.225,0.0,0.114,0.606,134.034,227653,4
+Just Dance,Lady Gaga,"['Lady Gaga', ""Colby O'Donis""]",6HkjpGIOHv4y0IBAxUbE5z,0.822,0.737,1,-4.542,0,0.0261,4.19e-05,0.18,0.753,118.994,241933,4
+Almost Slipped,Meek Mill,['Meek Mill'],1bx4Jw8A7GQtImIQGccI6D,0.49,0.651,8,-6.24,1,0.246,0.0,0.233,0.46,164.213,246793,4
+13樓的大笨象,Stephanie Cheng,['Stephanie Cheng'],1Cn2n7LpjpiElg6IyKB9id,0.423,0.721,1,-5.838,1,0.344,0.0,0.0799,0.482,168.046,293008,4
+Beautiful (feat. Camila Cabello),Bazzi,"['Bazzi', 'Camila Cabello']",4VUwkH455At9kENOfzTqmF,0.638,0.717,2,-4.722,1,0.346,0.0,0.105,0.249,100.027,180000,4
+7 rings,Ariana Grande,['Ariana Grande'],14msK75pk3pA33pzPVNtBF,0.725,0.321,1,-10.744,0,0.578,0.0,0.0884,0.319,70.142,178640,4
+Be Alright,高爾宣 OSN,['高爾宣 OSN'],4XAgxMf12NJ21aFBlkltrv,0.656,0.673,0,-6.307,1,0.244,0.0,0.36,0.717,86.002,202326,4
+別說(網劇《器靈2》片尾曲),孫雪寧,['孫雪寧'],1uEA1FDibh2lEEzeyWVzTY,0.358,0.421,11,-9.172,1,0.556,1.06e-06,0.253,0.205,117.927,272000,4
+Feel It Still,Portugal. The Man,['Portugal. The Man'],6QgjcU0zLnzq5OrUoSZ3OK,0.801,0.795,1,-5.115,0,0.0417,0.000113,0.0717,0.754,79.028,163253,4
+Fallin,Ghost like girlfriend,['Ghost like girlfriend'],1Ozr4Pj7sQqtOZM93b6XTp,0.678,0.73,6,-3.832,1,0.0075,4.47e-05,0.14,0.804,124.958,242702,4
+永不失聯的愛,Eric Chou,['Eric Chou'],46fURCnWErjFdNM2yBJ2c8,0.289,0.43,10,-6.818,1,0.624,0.0,0.101,0.531,169.511,259600,4
+Trip,Yoon Do Hyun,['Yoon Do Hyun'],0xsBB5TNJAAhwz7M1kyWh9,0.697,0.803,1,-5.305,0,0.0718,0.0,0.0936,0.658,130.039,199385,4
+龍的傳人–肆拾年,李建復,"['李建復', 'Leehom Wang', '李友珊']",62vLhdqeQ4LhUbx34fUoy0,0.331,0.502,9,-7.041,0,0.355,5.47e-06,0.143,0.118,139.857,349006,4
+華生,Cheer Chen,['Cheer Chen'],4mUhrpatn2p5qVEW7Jh5IX,0.606,0.492,5,-4.751,1,0.428,3.66e-06,0.0628,0.666,84.046,221067,4
+致青春,831,['831'],0RSwgUgtP87v5OSjlg1ZwH,0.597,0.935,7,-4.241,1,0.0121,0.0,0.322,0.544,127.926,204773,4
+两点半,CoolZ!,['CoolZ!'],7bKak1vSDhhfm7LbvoGLTm,0.776,0.377,1,-11.432,1,0.567,0.00233,0.108,0.772,79.002,164284,4
+JAPAN,Famous Dex,['Famous Dex'],5PTG6rrL6EPFD9E2QMI2pl,0.733,0.678,6,-7.771,1,0.121,0.0,0.344,0.841,175.985,142000,4
+We Out Here,ØZI,['ØZI'],4Mf7Ev3oZE5ZSiNP54H0Mk,0.695,0.803,4,-5.653,0,0.0165,0.0,0.317,0.386,104.965,204725,3
+你覺得菜棒還是肉棒,wackyboys,['wackyboys'],5SevC4mtiI2UnRLbfTcLBX,0.816,0.728,0,-6.687,1,0.333,0.0,0.139,0.328,121.98,247869,4
+Like A Mercedes,Lexie Liu,['Lexie Liu'],1PJcFbsMcKLjZgklxrHPAN,0.608,0.727,1,-7.282,0,0.0377,0.0,0.0888,0.504,166.051,212823,4
+粉雪,Sung Si Kyung,['Sung Si Kyung'],7iu2GcvG2ITHO03XCMdcv1,0.388,0.788,7,-5.423,1,0.0976,0.0,0.151,0.196,164.044,327147,4
+Clout (feat. Cardi B),Offset,"['Offset', 'Cardi B']",59ywHNwwchG4nZJMLyxSzd,0.919,0.622,1,-7.384,1,0.228,4.24e-06,0.122,0.424,140.022,205803,4
+"Never Recover (Lil Baby & Gunna, Drake)",Lil Baby,"['Lil Baby', 'Gunna', 'Drake']",6wWaVoUOzLQJHd3bWAUpdZ,0.753,0.686,1,-5.415,0,0.0677,0.0,0.193,0.886,132.055,194732,4
+謝謝收看,Rose Liu,['Rose Liu'],2TwFkDElMW54QkkGkIzIqD,0.789,0.388,2,-5.6,1,0.498,0.0,0.157,0.574,114.969,204000,4
+睡皇后,G.E.M.,['G.E.M.'],3f7D4hlFcvAWCPilTOGJEy,0.716,0.523,7,-8.938,1,0.222,9.71e-05,0.142,0.181,109.976,236462,4
+留給你的我從未,Sweet John,['Sweet John'],7ARYI48Dkalpm08NvgYUls,0.29,0.505,11,-7.384,1,0.0207,0.09,0.0923,0.479,89.57,258533,4
+Wildest Dreams - The Voice Performance,Katherine Ho,['Katherine Ho'],6I3G2YEds6qkICXxKolIUa,0.568,0.671,8,-4.581,1,0.178,0.0,0.134,0.47,133.859,221693,4
+淘汰(國),Eason Chan,['Eason Chan'],3aawXLnJpcDVXCl1UUksAW,0.512,0.551,9,-5.483,1,0.192,0.0,0.302,0.206,117.978,285000,4
+Why You Gonna Lie?,高爾宣 OSN,['高爾宣 OSN'],3U0KXR3pWf1wRKsEZeoWtm,0.768,0.76,7,-3.729,1,0.763,0.0,0.141,0.736,90.0,174000,4
+分手後不要做朋友,Rachel Liang,['Rachel Liang'],0QYWNTnsFxCBJF7Ns3xLbz,0.59,0.477,11,-5.678,1,0.805,0.0,0.103,0.609,127.823,257727,4
+前面轉個彎,NEKO Highway,['NEKO Highway'],0iTVIelGt3wgqTQELPeLGx,0.689,0.177,5,-16.401,1,0.75,0.0,0.114,0.286,143.871,209167,3
+PICK IT UP (feat. A$AP Rocky),Famous Dex,"['Famous Dex', 'A$AP Rocky']",0dSIrRkA4PadGll16TgbnV,0.921,0.467,1,-8.443,1,0.0149,0.000238,0.334,0.287,135.995,191252,4
+Runaways - Radio Edit,RE:VIBE,"['RE:VIBE', 'SHAUN', 'Adara']",117bzxDjKh1kiHlg3cLbT9,0.524,0.865,1,-3.62,0,0.00547,1.33e-05,0.159,0.297,121.984,228197,4
+4U,Vinida,['Vinida'],1HDTwLg8tIgbGjCExJXR9c,0.72,0.386,4,-8.132,0,0.407,1.38e-05,0.09,0.225,89.973,196048,4
+Your Side Of The Bed,Loote,['Loote'],3PWKPX3YJAHBL8JozsWTMC,0.781,0.742,8,-4.978,1,0.0649,0.0,0.293,0.91,109.915,197147,4
+Party Bus,Rich The Kid,"['Rich The Kid', 'Famous Dex', 'Jay Critch']",0L8oNO0RRrjUqJijjjstbf,0.724,0.636,0,-8.476,1,0.0477,0.0,0.133,0.45,139.958,246862,4
+I Don't Care (with Justin Bieber),Ed Sheeran,"['Ed Sheeran', 'Justin Bieber']",3HVWdVOQ0ZA45FuZGSfvns,0.798,0.675,6,-5.041,1,0.0912,0.0,0.0894,0.842,101.956,219947,4
+YOU & I,CoCo Lee,['CoCo Lee'],3L6Y0Xw6kYXABk5Thy7b0i,0.384,0.436,4,-6.859,1,0.586,0.0,0.114,0.185,127.236,266821,4
+FWYB,K CAMP,['K CAMP'],4dlqzNTlWJWIyKgOTE5uZ3,0.847,0.36,0,-8.313,1,0.252,0.0,0.148,0.52,144.06,161033,4
+I Love You,郭雪芙,['郭雪芙'],4GX1GY8RwiA3tZXda2ehQ5,0.704,0.782,5,-7.452,1,0.117,0.000545,0.0725,0.644,120.019,222230,4
+One Dance,Drake,"['Drake', 'WizKid', 'Kyla']",1zi7xx7UVEFkmKfv06H8x0,0.792,0.625,1,-5.609,1,0.00776,0.00188,0.329,0.37,103.967,173987,4
+bad guy,Billie Eilish,['Billie Eilish'],2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,1,0.328,0.13,0.1,0.562,135.128,194088,4
+False Alarm,Lockshire,"['Lockshire', 'Khris Aiden', 'Melina K']",1e57tDjOSsa8kSskFIzv1r,0.397,0.753,0,-5.206,1,0.33,4.67e-05,0.185,0.235,165.056,203114,4
+一種永遠,Joey Yung,['Joey Yung'],3kyJUSmj8lkccGZqye5CUk,0.369,0.421,6,-7.187,1,0.429,0.0,0.122,0.325,131.995,213636,4
+念,Hu Xia,['Hu Xia'],1LMIJ79l4O2hhvIbnEf15X,0.405,0.42,5,-9.82,1,0.3,1.75e-05,0.0845,0.141,105.931,292631,3
+I LOVE YOU TOO,李昶俊,['李昶俊'],6xF6cGaniQ216Zy2ylV1gZ,0.635,0.857,6,-5.384,1,0.0842,0.000632,0.179,0.281,109.974,201273,4
+You Are Not Alone,Jason Chan,['Jason Chan'],7BEFQAKvJMPtLUVUTAnO6S,0.705,0.67,9,-7.982,1,0.0306,0.0,0.102,0.407,126.025,207857,4
+Nice For What,Drake,['Drake'],3CA9pLiwRIGtUBiMjbZmRw,0.586,0.909,8,-6.474,1,0.0891,0.000109,0.119,0.757,93.394,210747,4
+Real Life,Jeffrey Kung,"['Jeffrey Kung', '滿舒克']",4zjO08QZHFxFhUcIFXb5Ve,0.842,0.84,1,-5.614,1,0.141,0.0,0.0795,0.78,92.473,211914,4
+Awesome,Dany Lee,['Dany Lee'],5TpPzMutZhe2082gaPbTkv,0.902,0.939,0,-3.265,1,0.0564,0.0,0.0789,0.605,111.983,153858,4
+40 days,Monkey Majik,['Monkey Majik'],05Pb5QQYERfbVYXaRsJZtQ,0.413,0.875,8,-4.513,0,0.0247,0.000112,0.0988,0.793,173.887,199067,4
+"不再說分手 (電影""分手100次""主題曲) - 國",Ivana Wong,['Ivana Wong'],0D7sgJy6WGD4MrDWhSo2eV,0.513,0.188,11,-12.969,1,0.955,2.98e-06,0.0887,0.278,67.339,228747,4
+最好的我,Serene Koong,['Serene Koong'],0yjhR0xPPkBNstUJ6VVg8X,0.749,0.649,10,-6.614,1,0.157,0.0,0.34,0.647,135.982,314453,4
+龍舌蘭,Eason Chan,"['Eason Chan', 'eason and the duo band']",5VCRrcx8hnFHeggm5acXKs,0.502,0.583,6,-7.327,0,0.485,2.44e-06,0.124,0.215,135.931,285280,4
+20 (feat. 王心凌),Ty.,"['Ty.', 'Cyndi Wang']",75SZkjePzOFL6VTCxtdbey,0.843,0.368,9,-15.239,1,0.548,0.0,0.111,0.391,104.017,196154,4
+Without Her,Eric Chou,['Eric Chou'],3htLc9I7j91cYAFUd9wu4J,0.728,0.719,9,-7.127,0,0.375,0.000391,0.0852,0.166,110.01,216493,4
+有一種悲傷,劉以豪,['劉以豪'],7zTuHLtomKqhNyq9IUbDoi,0.39,0.121,10,-13.126,1,0.913,2.74e-06,0.113,0.16,80.236,240079,4
+幾分之幾 - 電影<花甲大人轉男孩>主題曲,Crowd Lu,['Crowd Lu'],4F7ZAsndEIJXyFzJUHNlRu,0.519,0.342,1,-5.54,1,0.636,0.0,0.1,0.425,143.819,228571,4
+Get Dripped (feat. Playboi Carti),Lil Yachty,"['Lil Yachty', 'Playboi Carti']",3m2aDCqn8eT5ElXDUiboGU,0.95,0.489,8,-8.411,1,0.105,0.0,0.411,0.919,130.021,158769,4
+Tic Tac Toe (feat. Kodak Black),Meek Mill,"['Meek Mill', 'Kodak Black']",35J4wXQeRuHNOEArMy6FOe,0.821,0.72,10,-4.606,0,0.00902,7.07e-06,0.158,0.285,150.039,185261,4
+Hoes Mad,Famous Dex,['Famous Dex'],1u8kqieXwWHMnetFOk8rjg,0.706,0.758,7,-7.543,1,0.0317,0.0,0.489,0.523,134.867,190222,4
+Bad Day,LION,['LION'],7vO4t6vUINdNtAfOtEl4Ya,0.532,0.809,3,-4.368,1,0.147,0.0,0.129,0.194,140.162,258644,4
+CAKE,iri,['iri'],5qdTTy2EtCQ33s60U9vTOJ,0.78,0.677,11,-5.438,0,0.123,1.39e-06,0.108,0.656,107.003,214533,4
+8 Letters,Why Don't We,"[""Why Don't We""]",4zRZAmBQP8vhNPf9i9opXt,0.607,0.478,1,-5.702,0,0.649,0.0,0.0928,0.255,88.979,190027,4
+不用去猜,Jony J,['Jony J'],2G9RfvqkR9SMsUdWzuKuTP,0.844,0.505,5,-7.949,0,0.658,1.64e-06,0.182,0.637,129.919,213231,4
+即使這個世界令人絕望 (動畫片《芽》片頭曲),Verity,['Verity'],1MpNn6D8lJ8u6Y6u1j6ujg,0.234,0.534,8,-11.577,0,0.19,0.012,0.116,0.145,154.127,240469,3
+When You Are In My Song - “獨一無二” English Version,AGA,['AGA'],1tw45wCqK6adbDTE1XLc76,0.584,0.263,7,-8.001,1,0.884,0.0,0.181,0.388,139.866,202382,4
+Daydreaming,張粹方,['張粹方'],3R5GztC6iKkKyFREXwbT6P,0.601,0.719,11,-5.603,1,0.0539,0.0,0.239,0.745,76.108,223421,4
+Flashlight,iri,['iri'],1fBMrvJzGc5hikHN2oF0cb,0.782,0.56,8,-6.379,1,0.0418,3.2e-06,0.0965,0.849,108.012,200613,4
+Truly,宋楚琳,['宋楚琳'],0VczovvOr8bGZYluYpeFKL,0.795,0.639,2,-5.823,1,0.498,0.0,0.16,0.476,104.023,189601,4
+人蔘就4個賤人,爽樂團,['爽樂團'],4HhXcfqU3mwSpN02wpImVV,0.799,0.71,0,-5.969,1,0.204,0.0,0.124,0.908,97.994,283278,4
+"Nervous (feat. Lil Baby, Jay Critch & Rich the Kid)",Famous Dex,"['Famous Dex', 'Jay Critch', 'Lil Baby', 'Rich The Kid']",0n22yqkitWec0PV6tibWEO,0.68,0.732,10,-7.108,0,0.235,0.000174,0.0705,0.864,75.422,230408,4
+不是因為天氣晴朗才愛你,理想混蛋,['理想混蛋'],7KAhj1obJrK5Avezca7YVL,0.505,0.271,8,-13.185,1,0.754,1.23e-06,0.0883,0.401,136.049,240754,4
+半生緣(我們在這裡相遇),Karen Mok,['Karen Mok'],2NdGm9fx5zCHgOghmbAGkU,0.232,0.261,9,-9.563,1,0.667,0.000111,0.103,0.102,139.943,280158,4
+君と春 - 1st Demo Version,Chippoke Ohashi,['Chippoke Ohashi'],3psJQotH56DEVegvyy0xcR,0.583,0.136,11,-14.618,1,0.795,0.0,0.0623,0.226,170.068,249613,4
+Common,iri,['iri'],3LfF5uGg51x64RBUslzjLG,0.747,0.671,8,-7.358,1,0.348,2.93e-05,0.33,0.787,88.006,187067,4
+Nada Sousou,Hiroaki Kato,"['Hiroaki Kato', 'Arina Mocca']",3ZdzllGVt1TI4GkQgoHmu2,0.73,0.138,4,-13.458,1,0.857,8.98e-05,0.128,0.415,134.108,263486,4
+Alright,Kendrick Lamar,['Kendrick Lamar'],3iVcZ5G6tvkXZkZKlMpIUs,0.796,0.766,7,-5.974,1,0.0742,0.0,0.0827,0.558,110.034,219333,4
+24/7 (feat. Ella Mai),Meek Mill,"['Meek Mill', 'Ella Mai']",6irE4Fbjbry3czv7mTxVSB,0.657,0.711,0,-5.355,1,0.0135,0.0,0.221,0.368,86.957,221522,4
+CHAMPAGNE ROSÉ (feat. Madonna & Cardi B),Quavo,"['Quavo', 'Madonna', 'Cardi B']",2i4WKnGYntsN4jEvDjkKBE,0.86,0.681,2,-7.016,0,0.0372,2.51e-06,0.0749,0.846,153.993,246741,4
+Don't You,G5SH,['G5SH'],6dOtW0CfQOGr3Y5OZVsNlb,0.693,0.703,7,-5.516,1,0.00215,0.000117,0.209,0.497,130.069,157075,4
+If You Wanna,Perfume,['Perfume'],7Gk4yhNhOQ35ukXdmW4zWl,0.567,0.806,9,-2.04,1,0.293,0.195,0.242,0.724,149.976,163584,4
+Get What You Give,Felix Cartal,['Felix Cartal'],0DTtMH8wB4UiRCjk6NgWl5,0.626,0.748,1,-5.899,1,0.0143,0.0,0.123,0.223,121.067,219174,4
+凹造型,Ty.,['Ty.'],1wcDO85sfVea2Y0ByLyDNb,0.812,0.625,3,-6.13,0,0.53,1.52e-06,0.152,0.681,120.008,199982,4
+捉迷藏,Waa Wei,['Waa Wei'],2yB1vUpP3Ts9u8K2nYlO8d,0.524,0.463,3,-7.951,1,0.106,0.0,0.112,0.169,179.955,288493,4
+In My Feelings,Drake,['Drake'],0bAkKNCQfWkexHFn7fIKns,0.735,0.482,8,-9.445,1,0.00623,0.0144,0.448,0.315,181.995,217933,4
+Black Beatles,Rae Sremmurd,"['Rae Sremmurd', 'Gucci Mane']",6fujklziTHa8uoM5OQSfIo,0.794,0.632,0,-6.163,1,0.142,0.0,0.128,0.355,145.926,291893,4
+Okay (Spuds Remix),Talitha.,"['Talitha.', 'Spuds']",0BhXMvfBpUOzjzUFji3uCj,0.605,0.679,8,-7.576,0,0.0693,0.000259,0.467,0.339,75.929,234998,4
+Havana (feat. Young Thug),Camila Cabello,"['Camila Cabello', 'Young Thug']",1rfofaqEpACxVEHIZBJe6W,0.765,0.523,2,-4.333,1,0.184,3.56e-05,0.132,0.394,104.988,217307,4
+Friends (with BloodPop®),Justin Bieber,"['Justin Bieber', 'BloodPop®']",7iNIg7XDEaYECfWD5dJ9Va,0.743,0.735,8,-5.337,1,0.00389,0.0,0.304,0.631,104.979,189467,4
+Daylight,IMLAY,"['IMLAY', 'Laura Brehm']",6OEnEzls4jVZgsJFuVvhHa,0.599,0.527,1,-7.112,1,0.0537,0.0,0.143,0.292,138.083,200862,4
+Chung Ta Khong Thuoc Ve Nhau,Sơn Tùng M-TP,['Sơn Tùng M-TP'],6JmlinidjjjVLwmcktY7Ff,0.755,0.827,9,-4.678,0,0.262,0.000188,0.159,0.538,102.981,233029,4
+TOKYO GIRL,Perfume,['Perfume'],12yPEG7j9CDKzC0yyeukRS,0.728,0.912,2,-3.074,1,0.282,0.385,0.0807,0.678,127.973,267240,4
+Tell Me How,Mømøs,['Mømøs'],17YtfOkeRJeOhs2l4qBmT8,0.653,0.601,7,-7.255,1,0.133,0.0,0.1,0.089,103.978,198531,4
+BBoom BBoom,MOMOLAND,['MOMOLAND'],3BPoSr2pO34Aan6alFfVto,0.785,0.744,3,-4.249,0,0.0149,0.00666,0.0661,0.833,126.018,208863,4
+Young Dumb & Broke,Khalid,['Khalid'],5Z3GHaZ6ec9bsiI5BenrbY,0.798,0.539,1,-6.351,1,0.199,1.66e-05,0.165,0.394,136.949,202547,4
+誰愛誰 (feat. E.SO),Dizzy Dizzo,"['Dizzy Dizzo', 'E.SO']",35ymZmnw1b1rbXPssRn3MT,0.791,0.599,7,-7.626,1,0.409,8.13e-06,0.233,0.677,109.975,214907,4
+Let Me Hold You (Turn Me On),Cheat Codes,"['Cheat Codes', 'Dante Klein']",3aLWuWKHaTV4Ok7LKvXRYn,0.681,0.774,1,-3.167,0,0.0992,0.0,0.35,0.267,102.924,162425,4
+Some,BOL4,['BOL4'],3mmLyEhphJAaW7hyEXAD8l,0.659,0.799,1,-2.849,0,0.417,0.0,0.0562,0.782,103.99,181373,4
+EGO-HOLIC戀我癖,Starr Chen,"['Starr Chen', 'Jolin Tsai']",1o1r3FCDXAoQEofBF1Ve8d,0.68,0.848,10,-4.535,0,0.271,0.0445,0.124,0.645,110.009,189869,4
+Kataomoi,Aimer,['Aimer'],3yyygrZ3m9dHsqeDx0QaFU,0.623,0.534,1,-5.995,1,0.78,0.0,0.34,0.765,96.646,207867,4
+SAD!,XXXTENTACION,['XXXTENTACION'],3ee8Jmje8o58CHK66QrVC2,0.74,0.613,8,-4.88,1,0.258,0.00372,0.123,0.473,75.023,166606,4
+The Day You Went Away,M2M,['M2M'],1rYYJVlUV2EcgehVUnwJvy,0.511,0.734,11,-6.789,0,0.0495,9.93e-06,0.299,0.801,188.216,222520,4
+Save Me,DEAMN,['DEAMN'],3L7NSXggVPKAyRh6N5WHsY,0.723,0.934,2,-1.94,1,0.421,0.000895,0.0593,0.793,122.004,184918,4
+開什麼玩笑,Erika,['Erika'],2GzWkqyJ6oydXEPBi3Jigs,0.611,0.856,11,-3.887,1,0.0666,1.87e-05,0.157,0.513,119.97,220347,4
+Lucid Dreams,Juice WRLD,['Juice WRLD'],0s3nnoMeVWz3989MkNQiRf,0.511,0.566,6,-7.23,0,0.349,0.0,0.34,0.218,83.903,239836,4
+You'll Never Know,J.Sheon,['J.Sheon'],1Fw89KWIgMZyEpjCUY3DT9,0.725,0.689,6,-5.183,0,0.281,0.0,0.0996,0.25,119.952,210739,4
+피카부 Peek-A-Boo,Red Velvet,['Red Velvet'],42tFTth2jcF7iSo0RBjfJF,0.839,0.902,1,-3.612,0,0.0868,0.00257,0.272,0.639,114.953,189050,4
+Ocean (feat. Khalid),Martin Garrix,"['Martin Garrix', 'Khalid']",3nc420PXjTdBV5TN0gCFkS,0.506,0.693,0,-7.265,0,0.584,9.58e-05,0.0891,0.221,139.912,216420,4
+Umbrella (feat. Hyolyn & Gill Chang),Far East Movement,"['Far East Movement', 'Hyolyn', 'Gill Chang']",4vEbC6hqjxmgrsxbmmtYEs,0.381,0.704,9,-4.6,1,0.437,0.0001,0.338,0.719,90.014,246226,4
+回憶那麼傷,Niko Sun,['Niko Sun'],0LTXne4eVpn3ldNf20439U,0.703,0.573,8,-6.74,1,0.536,0.0,0.0898,0.462,108.038,236471,4
+Wolves,Selena Gomez,"['Selena Gomez', 'Marshmello']",0tBbt8CrmxbjRP0pueQkyU,0.724,0.804,11,-4.614,0,0.124,0.0,0.204,0.306,124.987,197993,4
+我們不一樣,Da Zhuang,['Da Zhuang'],6jIaM0E0zbelWAiL9s1Bg4,0.635,0.581,7,-7.05,0,0.647,0.0,0.126,0.492,139.963,270857,4
+感動每一刻,Stefanie Sun,"['Stefanie Sun', 'Tanya Chua', 'JJ Lin', 'A-do']",5T1OJndUVSJB3UhTZEiQ5W,0.634,0.5,0,-7.948,1,0.368,0.0,0.136,0.419,119.909,275278,4
+Mama,Jonas Blue,"['Jonas Blue', 'William Singe']",47OVNnZJzIkrsEiZ4n187p,0.737,0.792,11,-4.117,0,0.102,0.0,0.0532,0.543,104.012,184134,4
+Unwritten,Natasha Bedingfield,['Natasha Bedingfield'],1D1nixOVWOxvNfWi0UD7VX,0.706,0.801,5,-6.333,1,0.00577,0.0,0.0822,0.63,100.013,259333,4
+Without Her,Eric Chou,['Eric Chou'],3htLc9I7j91cYAFUd9wu4J,0.728,0.719,9,-7.127,0,0.375,0.000391,0.0852,0.166,110.01,216493,4
+Blue,BOL4,['BOL4'],4rmCUodFiPbIIV9Vdof42A,0.796,0.577,2,-4.424,1,0.731,0.0,0.169,0.777,114.986,186213,4
+Rookie,Red Velvet,['Red Velvet'],69xdFGM7SJkbDf77s0gJEl,0.683,0.938,8,-3.723,0,0.0888,0.0,0.331,0.868,164.1,197638,4
+打個牌,G5SH,['G5SH'],0V6luheDNQz5KexcDWET0P,0.702,0.654,11,-6.175,0,0.0339,2.06e-06,0.0779,0.62,120.985,214215,4
+我不浪漫,Kimberley Chen,['Kimberley Chen'],60K4pIh2MiKveSXxgG4ouq,0.655,0.75,2,-3.234,0,0.0335,0.0,0.127,0.593,87.0,250378,4
+Hell Nos And Headphones,Hailee Steinfeld,['Hailee Steinfeld'],4ToeppjiHi7kGMAVUvosv0,0.706,0.562,10,-6.867,1,0.0131,0.0,0.0974,0.492,102.977,230933,4
+僕はロボットごしの君に恋をする,THE SxPLAY,['THE SxPLAY'],39Gho28UEGPOmhPuFCNgWS,0.709,0.677,9,-3.677,1,0.774,0.0,0.155,0.375,109.976,290293,4
+Wings,Jasmine Tingchu,['Jasmine Tingchu'],30Nvg6VDoVwdvjCnB5mM7v,0.263,0.61,6,-5.563,1,0.245,1.18e-05,0.101,0.361,187.699,230973,4
+當,Power Station,['Power Station'],43n3DcHCoDwkRHFFmRnRos,0.488,0.584,5,-5.301,0,0.0417,0.0,0.0662,0.194,139.918,293378,4
+Realize - Myanmar Version,Rose Quartz,['Rose Quartz'],1jS6puyhOgHIEH6pl5FMZp,0.785,0.869,9,-3.067,1,0.326,1.89e-05,0.0501,0.216,106.01,222736,4
+望,張涵雅,['張涵雅'],0IczofX5iiwUhTeH54EpSy,0.64,0.836,3,-9.8,1,0.377,0.000171,0.141,0.386,137.985,218500,4
+Finesse - Remix; feat. Cardi B,Bruno Mars,"['Bruno Mars', 'Cardi B']",3Vo4wInECJQuz9BIBMOu8i,0.704,0.859,5,-4.877,0,0.0185,0.0,0.0215,0.926,105.115,217289,4
+Superlove,Tinashe,['Tinashe'],1uTXtV2r7DSRnMGKh3HxGi,0.774,0.635,5,-4.991,0,0.0148,0.0,0.289,0.438,134.989,183792,4
+最後一頁,江語晨,['江語晨'],1j793T7s8hUA2MMSHC1MVR,0.473,0.455,4,-7.881,1,0.428,0.0,0.315,0.283,139.837,245547,4
+Bad At Love,Halsey,['Halsey'],7y9iMe8SOB6z3NoHE2OfXl,0.675,0.751,0,-3.539,1,0.0604,0.0,0.0893,0.612,118.384,181279,4
+Kirameki,Hikaru Station,"['Hikaru Station', 'Fireteamtorch']",6XGOso6v7VsU1GGbazRgFU,0.614,0.323,9,-12.442,1,0.912,7.26e-05,0.0893,0.222,97.45,144980,4
+櫻花樹下,Hins Cheung,['Hins Cheung'],2FgDWCqMCIAATvqr9ozeYm,0.415,0.498,9,-5.022,1,0.659,0.0,0.197,0.3,143.68,249987,4
+Fetish (feat. Gucci Mane),Selena Gomez,"['Selena Gomez', 'Gucci Mane']",4lnAN2S1fcI0SjxEbksZVr,0.708,0.618,2,-4.424,1,0.0204,6.81e-06,0.062,0.265,123.013,186113,4
+Feels Great (feat. Fetty Wap & CVBZ),Cheat Codes,"['Cheat Codes', 'Fetty Wap', 'CVBZ']",5uu28fUesZMl89lf9CLrgN,0.522,0.833,0,-3.715,1,0.0454,0.0,0.127,0.296,180.009,193569,4
+迷途羔羊,G.U.T.S,['G.U.T.S'],7L4WcYnU9KhCqfzYTaKenr,0.759,0.648,6,-7.528,1,0.487,0.000494,0.0974,0.452,115.987,271354,4
+達爾文,Tanya Chua,['Tanya Chua'],5DXt0rgXsJPkU6sBCh4L4J,0.57,0.283,7,-10.073,1,0.854,0.0,0.101,0.409,78.01,265107,4
+rockstar (feat. 21 Savage),Post Malone,"['Post Malone', '21 Savage']",0e7ipj03S05BNilyu5bRzt,0.585,0.52,5,-6.136,0,0.124,7.01e-05,0.131,0.129,159.801,218147,4
+Star,HEIZE,['HEIZE'],41lw42I7uyqwPEQOPZwcOG,0.509,0.471,11,-6.374,0,0.572,0.0,0.38,0.306,68.426,218280,4
+Need U Now,Julia Wu,['Julia Wu'],6yIaJDuVNOxENVkzyILhCi,0.627,0.568,5,-7.092,1,0.301,0.0,0.168,0.472,127.774,188743,4
+Love & Sweet,Celeina Ann,['Celeina Ann'],5LE07VjCMpH6in9YMs74Zd,0.775,0.889,3,-3.543,1,0.15,0.0,0.129,0.669,127.969,225280,4
+我愛妳彭拉昆,Nico & Kim,['Nico & Kim'],2FjU6oqLXyx1NxsA0mBBwI,0.343,0.694,8,-5.689,1,0.383,0.0,0.1,0.392,172.039,297084,4
+First Love,Hikaru Utada,['Hikaru Utada'],39HrUxcvKF3jtLz7fUDWXc,0.438,0.434,7,-8.37,1,0.122,0.0,0.15,0.195,179.913,257293,4
+Make Me Move,Culture Code,"['Culture Code', 'Karra']",4DHRbvvQyC3mBa3Y0JNl4n,0.541,0.65,8,-4.665,0,0.211,0.000128,0.1,0.356,95.019,197053,4
+家家酒,Jia Jia,['Jia Jia'],6cqG6uyhuGDqsRyBwFrzxJ,0.552,0.543,6,-6.272,1,0.421,0.0,0.107,0.181,132.103,273405,4
+明天的煩惱,A/DA 阿達,"['A/DA 阿達', 'Vera Yen']",0pW0kasekQfAKjtqL4l7yR,0.762,0.699,7,-6.36,1,0.566,0.0,0.234,0.535,80.029,183375,4
+天生一對 - 電影《天生不對》主題曲,Fiona Sit,"['Fiona Sit', 'Khalil Fong']",4HmjgkdZs24brOnR4t0Anu,0.685,0.805,6,-6.787,1,0.418,0.0,0.316,0.687,109.02,281656,4
+夢一場,林雪,['林雪'],3MrcEK7lWb3BeUtR4CVjT6,0.368,0.163,1,-9.618,1,0.875,0.0,0.109,0.309,207.2,254547,4
+Starry Eyed,Ellie Goulding,['Ellie Goulding'],1vWGa8yC21ZELs9dAhiC2Q,0.508,0.831,5,-5.273,0,0.121,5.56e-06,0.352,0.65,149.915,176613,4
+永不失聯的愛 [原創概念版],Eric Chou,['Eric Chou'],21NmnwPP8SHKyVtjvubGSs,0.583,0.227,10,-14.525,1,0.936,0.000189,0.105,0.368,84.765,253417,4
+Somebody,The Chainsmokers,"['The Chainsmokers', 'Drew Love']",3pWcj8hxj3fsb9TDAcMpEl,0.532,0.616,10,-7.074,0,0.186,0.0,0.0928,0.292,101.883,223147,4
+Words,Daya,['Daya'],28kwfhqP0K1f6ll0lpHg45,0.751,0.78,7,-4.886,1,0.178,0.0,0.0801,0.548,125.013,212923,4
+Better Now,Post Malone,['Post Malone'],7dt6x5M1jzdTEt8oCbisTK,0.68,0.578,10,-5.804,1,0.331,0.0,0.135,0.341,145.038,231267,4
+Don’t Matter To Me,Drake,"['Drake', 'Michael Jackson']",36ONiya0OANYknz0GgJmwB,0.825,0.317,10,-12.39,1,0.497,0.0128,0.11,0.136,103.001,245787,4
+一個人生活 - 2012幸福蛻變版,林凡,['林凡'],5Hi3Xlpda9VnUUIgfVZAPp,0.644,0.44,3,-8.18,1,0.839,1.93e-06,0.109,0.226,99.963,285137,4
+麻吉弟弟 - 被愛妄想症 Love Delusion,Machi DIDI,"['Machi DIDI', '文慧如']",4GVWvPgKu6o4f1mLwq1VoP,0.72,0.886,9,-3.41,0,0.227,0.0,0.536,0.778,140.042,219429,4
+匪夷所愛,Mannyan,['Mannyan'],677GIzuU7EdEg46ZJO1DqS,0.483,0.38,11,-10.344,0,0.598,0.0,0.126,0.418,146.633,200858,4
+Ko Ko Bop,EXO,['EXO'],5EzitieoPnjyKHAq0gfRMa,0.749,0.85,0,-4.346,1,0.0319,4.81e-05,0.0678,0.672,145.983,190423,4
+该死的温柔,马天宇,['马天宇'],2u9qjyVEdXhMrRxmwy1Qqc,0.677,0.491,5,-8.264,0,0.363,1.19e-05,0.112,0.443,143.996,219794,4
+我只是你的夢境,Astro Bunny,['Astro Bunny'],012ngpf9pRtNLWnWVBVPop,0.622,0.862,4,-7.099,0,0.0493,0.000688,0.354,0.315,104.018,223817,4
+That's It,Power Station,['Power Station'],0MI8gHVSjtpHZch2QDk7dF,0.647,0.554,5,-4.463,1,0.48,0.0,0.123,0.405,183.859,276467,4
+我當你空氣,WONFU,['WONFU'],6PGJkZrbR06YVnS0w4thLk,0.795,0.659,1,-6.274,0,0.123,2.07e-05,0.169,0.65,119.932,235668,4
+空空如也,胡66,['胡66'],4OEBQV4xuX1n2pcMLzroOB,0.691,0.595,4,-6.588,1,0.307,0.0,0.133,0.696,156.22,211538,4
+無表面傷痕,Joyce Cheng,['Joyce Cheng'],71Bv7K46NJOEViehjCRMVh,0.621,0.336,4,-13.219,1,0.601,0.0,0.128,0.574,130.078,271385,4
+多愛,G5SH,['G5SH'],7lmJuMOXIPplwz8TphSZdF,0.7,0.705,1,-4.76,0,0.0249,0.0,0.104,0.235,144.013,226221,4
+舞伴,柯智棠,"['柯智棠', 'Hung Pei-Yu']",7CMIeC8M8IqCSqjANTGXWg,0.592,0.751,2,-7.27,1,0.0452,2.03e-05,0.431,0.436,119.032,239956,4
+Close to You (feat. Jasmine Sokko),Lucian,"['Lucian', 'Jasmine Sokko']",2jRfRIvnZj4J6mxGnpVmdQ,0.878,0.613,2,-3.873,1,0.126,0.0,0.194,0.753,104.986,185526,4
+我的新衣 (feat. Ty. & 王倩倩),VaVa,"['VaVa', '王倩倩', 'Ty.']",2D2pqz9UjxOsLbucKFAHTV,0.586,0.814,6,-6.737,0,0.0752,4e-05,0.169,0.645,179.904,244695,4
+Monster,EXO,['EXO'],7GbUWl6qLW1gdngbEV2WDJ,0.618,0.76,6,-4.312,1,0.0066,0.0,0.127,0.541,150.0,221341,4
+Call You Mine,Chelsea Collins,['Chelsea Collins'],6WDUonwc9ABG53zkOghffm,0.442,0.543,6,-6.474,0,0.0978,0.0,0.0842,0.284,93.898,194043,4
+Anywhere,Rita Ora,['Rita Ora'],7EI6Iki24tBHAMxtb4xQN2,0.628,0.797,11,-3.953,0,0.0364,0.0,0.104,0.321,106.93,215064,4
+疑心病,任然,['任然'],2PTp2VPBsRUJPlquCTbSAq,0.562,0.469,3,-7.997,1,0.481,0.0,0.161,0.242,124.102,292242,4
+答案,杨坤,"['杨坤', '郭采洁']",6nvuEO75YDMMwlx76CRb9g,0.581,0.63,11,-7.736,1,0.389,0.0,0.188,0.597,147.994,232733,4
+Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,['Macklemore & Ryan Lewis'],3bidbhpOYeV4knp8AIu8Xn,0.641,0.922,2,-4.457,1,0.0291,0.0,0.0862,0.847,146.078,258343,4
+View,SHINee,['SHINee'],46E1ic6n099e76t5J1TbHn,0.728,0.801,6,-4.428,0,0.04,0.0,0.0415,0.656,123.953,190821,4
+Playinwitme (feat. Kehlani),KYLE,"['KYLE', 'Kehlani']",4F1yvJfQ7gJkrcgFJQDjOr,0.689,0.584,1,-5.768,0,0.339,0.0,0.297,0.676,156.572,191680,4
+Unrequited,Yoga Lin,['Yoga Lin'],2eOpn0ix5JGf47vUBUqZnV,0.46,0.349,11,-9.966,1,0.566,0.0,0.108,0.199,138.713,307213,4
+小故事,JW,['JW'],1OPLwsu0srirXKChlb99iC,0.618,0.347,11,-9.029,1,0.785,0.0,0.123,0.428,137.641,210860,4
+Wherever you are,ONE OK ROCK,['ONE OK ROCK'],0YAMQSmHk6BSUGTYpaoqTJ,0.379,0.69,4,-4.79,1,0.0286,0.0,0.335,0.288,173.716,295600,4
+전야 前夜 The Eve,EXO,['EXO'],2ujA6F1cpk3m8lsPE5aKua,0.636,0.702,0,-5.352,0,0.0223,0.0,0.293,0.516,135.104,176026,4
+Palette (Feat. G-DRAGON),IU,['IU'],3y7ByLZ05tluscOTRgEJ9Y,0.804,0.68,0,-3.81,1,0.458,0.0,0.102,0.62,102.013,217413,4
+EGO-HOLIC戀我癖,Starr Chen,"['Starr Chen', 'Jolin Tsai']",0xniQzb5VGD0xibLVlXFbM,0.699,0.572,10,-14.0,0,0.264,0.227,0.244,0.694,110.042,193424,4
+Go Go,BTS,['BTS'],5nq1uTNIR1cBR72T87viS0,0.856,0.617,10,-5.308,0,0.171,0.0,0.0857,0.759,136.082,235780,4
+Attention,Charlie Puth,['Charlie Puth'],4iLqG9SeJSnt0cSPICSjxv,0.774,0.626,3,-4.432,0,0.0969,3.12e-05,0.0848,0.777,100.041,211475,4
+City Lights (feat. EVO+ & Jinmenusagi),HyperJuice,"['HyperJuice', 'EVO', 'Jinmenusagi']",41rLrTjd0p9Z1LI1jeeFHb,0.738,0.82,0,-3.181,1,0.0573,0.0,0.161,0.549,131.025,248141,4
+BLUE MOON (Prod. GroovyRoom),Hyolyn,['Hyolyn'],0CPWIY1etGeJLg12CAuP4n,0.786,0.783,5,-5.598,1,0.158,0.0,0.109,0.449,106.987,203057,4
+流沙,David Tao,['David Tao'],6c4RDAKNwY7ETgosB6GXu2,0.647,0.291,8,-11.476,1,0.672,0.0,0.258,0.388,75.999,242560,4
+Save ME,BTS,['BTS'],0RB00aMsmBlr91i9r4Sfib,0.606,0.778,1,-4.393,1,0.0255,0.0,0.0819,0.528,139.865,196559,4
+膽小鬼,Gigi Leung,['Gigi Leung'],40RMeJVU5m7YzCJ9It9ohi,0.676,0.446,7,-8.327,1,0.657,0.0,0.112,0.427,115.017,258107,4
+堅持到底,A-do,['A-do'],3OUu5vlYe1YGdaLjfOff6v,0.69,0.601,0,-5.188,1,0.291,0.0,0.117,0.418,124.001,245955,4
+Don't forget me,Girl's Day,"[""Girl's Day""]",7wlr39cbHqaB2kx47rAcXO,0.621,0.972,0,-0.357,0,0.11,0.0,0.317,0.651,133.82,190433,4
+First Time,Kygo,"['Kygo', 'Ellie Goulding']",2Gl0FzuLxflY6nPifJp5Dr,0.633,0.592,0,-7.245,0,0.197,0.0,0.099,0.679,90.066,193511,4
+愛を伝えたいだとか,Aimyon,['Aimyon'],3hnc4KOBcUB6bC7gGwlBPG,0.673,0.85,2,-5.021,1,0.0345,1.14e-05,0.0943,0.793,100.008,235241,4
+Do What I Want,Lil Uzi Vert,['Lil Uzi Vert'],4IWGnyOHDrVZEtPWfs4s7q,0.681,0.701,9,-6.336,1,0.106,0.0,0.208,0.398,139.952,175203,4
+突然累了,JJ Lin,['JJ Lin'],2bryA7ON6pWYiDryWmnUYN,0.508,0.347,5,-14.042,1,0.268,1.7e-05,0.109,0.529,79.999,251600,4
+쩔어 DOPE,BTS,['BTS'],0pGHou9D7JTMKbMfOLKy50,0.619,0.889,10,-3.108,0,0.0483,0.0,0.324,0.622,77.058,240021,4
+說愛你,Jolin Tsai,['Jolin Tsai'],2A5bP44KZWgr4t0JP9dPzr,0.742,0.795,0,-5.11,0,0.191,5.02e-06,0.0866,0.647,101.982,223533,4
+驗傷,Janice Vidal,['Janice Vidal'],584dXuCRxf0IUXRDnn1Q8u,0.603,0.539,6,-5.413,1,0.366,0.0,0.104,0.396,127.959,227715,4
+不應該勇敢 - 《美味的想念》片尾曲,Soo Wincci,['Soo Wincci'],4o6ETerk6ccD5Hg637wQuV,0.563,0.549,2,-7.158,1,0.501,0.0,0.105,0.399,133.783,264180,4
+愛我還是他,David Tao,['David Tao'],13bw75oRjvxMv9VGIeM32i,0.465,0.391,11,-8.029,1,0.758,0.0,0.112,0.152,133.025,292667,4
+失落沙洲,LaLa Hsu,['LaLa Hsu'],4vBoopG4WzohMju1GUmwoi,0.422,0.366,7,-7.181,1,0.728,0.0,0.112,0.224,80.197,299347,4
+Fake Love,Drake,['Drake'],343YBumqHu19cGoGARUTsd,0.928,0.481,9,-9.35,0,0.105,0.0,0.176,0.613,134.007,210937,4
+Little Sunshine,Amber Kuo,['Amber Kuo'],7zKLEQGEb616CL9JnT0Pj2,0.702,0.705,5,-5.061,1,0.235,0.0,0.0788,0.539,127.056,224440,4
+凉凉 - 電視劇《三生三世十里桃花》片尾曲,Aska Yang,"['Aska Yang', 'Zhang Bichen']",7LmFgyIHlXRqjDOt68RQoQ,0.463,0.56,4,-7.832,0,0.78,1.09e-05,0.0891,0.267,90.005,333333,4
+溫柔,Mayday,['Mayday'],1EgGTmmFGtlWuqgXFLrp9x,0.512,0.719,7,-3.233,1,0.118,1.84e-06,0.0936,0.48,147.992,269597,4
+王妃,Jam Hsiao,['Jam Hsiao'],6xVw19NAlPn9oA638jzE3l,0.637,0.948,6,-2.843,0,0.028,0.0,0.15,0.579,126.975,221760,4
+I'm the One,DJ Khaled,"['DJ Khaled', 'Justin Bieber', 'Quavo', 'Chance the Rapper', 'Lil Wayne']",72Q0FQQo32KJloivv5xge2,0.599,0.667,7,-4.267,1,0.0533,0.0,0.134,0.817,80.984,288877,4
+Twenty-Five,Song Ji Eun,['Song Ji Eun'],1CELmnPMIsiAPuOsf2GZfe,0.771,0.841,8,-2.763,1,0.12,0.0,0.24,0.755,113.011,205267,4
+Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,"['Maggie Lindemann', 'CADE', 'Cheat Codes']",39IsH7B5byx8NRlEKlZVg9,0.703,0.868,7,-4.661,0,0.15,0.132,0.104,0.733,121.03,193613,4
+對摺,Richie Jen,['Richie Jen'],76phDyRgRyPNQs3IbwLxeU,0.503,0.526,8,-6.253,1,0.375,0.0,0.235,0.388,152.207,290493,4
+Company,Justin Bieber,['Justin Bieber'],61uyGDPJ06MkxJtHgPmuyO,0.59,0.797,4,-4.901,0,0.132,0.0,0.0846,0.425,94.948,208120,4
+女兒心如水,鄧福如 AFÜ,"['鄧福如 AFÜ', '何官錠 AL']",6SgqvsfOM0JQckZN6yS0RD,0.671,0.53,7,-7.35,1,0.282,0.0,0.202,0.39,95.001,233067,4
+HUMBLE.,Kendrick Lamar,['Kendrick Lamar'],7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,1,-6.638,0,0.000282,5.39e-05,0.0958,0.421,150.011,177000,4
+有何不可,許嵩,['許嵩'],5rXBmcYNJYMYdhwxlMLh0s,0.549,0.521,6,-6.119,1,0.472,1.96e-06,0.0978,0.771,202.017,240027,4
+光年之外 (電影 《Passengers》 中國區主題曲),G.E.M.,['G.E.M.'],1bkvGbgK4HU8B7Ue4k7O7I,0.539,0.668,1,-6.825,0,0.4,0.0,0.0864,0.238,175.867,235505,4
+日落大道,梁博,['梁博'],7qIm3F7GqOrigJsKadawEZ,0.581,0.47,11,-8.344,1,0.128,4.33e-05,0.112,0.235,128.076,275435,4
+戀愛達人,Show Luo,['Show Luo'],7yem27EktuPjs9JqYWCiZz,0.763,0.615,0,-6.664,1,0.0534,0.0,0.127,0.624,98.007,210267,4
+DNA.,Kendrick Lamar,['Kendrick Lamar'],6HZILIRieu8S0iqY8kIKhj,0.638,0.523,1,-6.664,1,0.00454,0.0,0.0842,0.422,139.913,185947,4
+BOOMBAYAH,BLACKPINK,['BLACKPINK'],1dB06EmjB6NyftV1pxq6Qk,0.75,0.869,5,-2.236,0,0.0263,2.66e-06,0.221,0.494,124.951,241640,4
+倒帶,Jolin Tsai,['Jolin Tsai'],5VQ3tkSUhfX4w5g5bj0Blv,0.56,0.59,5,-6.365,1,0.113,0.0,0.125,0.384,130.389,262400,4
+"You, Who?",Eric Nam,"['Eric Nam', 'Jeon So Mi']",5WLLVrfFNbseupmtv0p2B1,0.477,0.8,0,-3.267,1,0.226,0.0,0.106,0.675,96.04,219330,4
+櫻花粉的浪漫,二珂,['二珂'],6s7n9GHNap3Ewq9lSfkbsR,0.759,0.553,8,-8.024,1,0.426,6.78e-05,0.108,0.433,94.04,201004,4
+愛的城堡,卓文萱,['卓文萱'],1yvZDAtctgkFBQm7IKI3X6,0.747,0.695,6,-7.784,1,0.647,4.9e-06,0.0787,0.874,106.021,187871,4
+唯獨你是不可取替,Sammi Cheng,['Sammi Cheng'],2KgOx8Sdw9WgiMDRvdidvx,0.249,0.269,2,-10.273,1,0.855,6.86e-06,0.219,0.174,138.946,245653,3
+戀愛ing,Mayday,['Mayday'],4njcD0QuUSSKUL1cAYxevt,0.662,0.549,0,-3.791,1,0.101,0.0,0.168,0.858,98.523,169348,4
+非酋,薛明媛,"['薛明媛', '朱贺']",6PPqL3Oj5qzpTN8xG19W2z,0.785,0.687,0,-6.735,1,0.358,0.0,0.065,0.547,100.013,172200,4
+妮妮,Nico & Kim,"['Nico & Kim', '林京燁']",5Gq33bYcS7uGKKW3ctedfG,0.589,0.4,8,-10.007,1,0.76,0.0,0.191,0.47,120.038,234207,4
+不該,Jay Chou,"['Jay Chou', 'A-Mei Chang']",7LyCtbxher5m97MImn5M3l,0.441,0.619,4,-6.609,1,0.19,0.0,0.118,0.187,75.027,290133,4
+一諾千年,A-do,['A-do'],0tjXPgFz9p7U1e0ncz1ouE,0.469,0.61,8,-4.59,0,0.103,0.0,0.12,0.216,142.067,210423,4
+"陪著你走 - 劇集 ""不懂撒嬌的女人"" 插曲",Kayee Tam,['Kayee Tam'],3HMesevL5DK01uEpHrn9IO,0.716,0.152,2,-16.506,1,0.867,0.0,0.0754,0.216,101.015,211601,4
+Shalala Romance,Dawon,['Dawon'],557Rp0MOMAOWf7XETe2UM1,0.734,0.549,0,-13.409,1,0.0823,8.12e-06,0.178,0.802,82.031,209518,4
+勇敢去愛吧,Tiger Hu,['Tiger Hu'],798A1AbXluls2TtL3rKkSU,0.647,0.793,5,-4.919,1,0.106,1.14e-06,0.37,0.585,99.937,238653,4
+Meow Meow,CLC,['CLC'],5N3rXELAY2c1UBgWlARBYY,0.781,0.691,4,-4.797,0,0.123,0.0,0.053,0.334,104.932,198658,4
+speed of youth,Kensuke Ushio,['Kensuke Ushio'],2Z2wDQKG1J3LlbMh1fTzxa,0.541,0.537,2,-10.354,1,0.919,0.908,0.113,0.357,160.035,283067,4
+敢 Roleplay,Lu Han,['Lu Han'],3m1nz39Ke2fLUEb1AOdEUR,0.788,0.824,9,-6.432,1,0.0613,5.28e-06,0.0283,0.653,143.954,159314,4
+Daddy's Hovercar,Disco Hue,['Disco Hue'],6UdYsjbEZgkicBd04mMHsW,0.356,0.662,7,-6.639,1,0.289,5.61e-05,0.121,0.312,129.892,243681,4
+預言書,Kenny Kwan,['Kenny Kwan'],5InRpvvCxbQ7D4Cdh69Qy2,0.54,0.52,2,-5.782,1,0.513,0.0,0.203,0.516,140.033,246703,4
+Marry Me,Jam Hsiao,['Jam Hsiao'],4GwEeSaXgqEozZv1cZ778l,0.626,0.561,1,-6.013,1,0.759,0.0,0.0896,0.366,129.837,279792,4
+離開我的自由 (Leave My Freedom),A-do,['A-do'],62WklW6nvbSrjArK9sYT5g,0.375,0.333,6,-9.529,1,0.857,0.0,0.0718,0.219,131.973,296700,4
+音樂讓我說愛你,Tiger Hu,['Tiger Hu'],1hnSnXsyx62gmeN92M8QPB,0.638,0.684,3,-5.925,1,0.0659,0.0,0.18,0.64,110.005,197867,3
+怎樣 ?,Penny Tai,['Penny Tai'],4CD6fcm9HZYu2sA3ln6DuX,0.641,0.363,2,-10.434,1,0.809,0.0,0.0949,0.218,119.739,271107,4
+All Alone with You,EGOIST,['EGOIST'],1aj26XjpxbDlxAXtrpGrRv,0.26,0.67,11,-4.682,1,0.0802,0.00467,0.192,0.343,143.71,350320,4
+花好月圓夜,Miriam Yeung,"['Miriam Yeung', 'Richie Jen']",6uGTVG9G40bUwUjObV0M7Q,0.614,0.414,11,-8.852,1,0.706,0.0,0.122,0.378,94.558,143600,4
+Cover up,TAEYEON,['TAEYEON'],25JsYHDRiRvxIddliGESTT,0.735,0.881,11,-3.463,1,0.0496,3.17e-06,0.0859,0.9,118.02,205982,4
+Can't Help Myself (feat. LOCO),Eric Nam,"['Eric Nam', 'Loco']",2orlgIY1OBWBDQgmkHZHct,0.698,0.874,9,-2.296,0,0.0259,1.02e-06,0.475,0.795,122.945,189158,4
+屋頂,Landy Wen,"['Landy Wen', 'Jay Chou']",66JiXkry8h9HHpTZEXlnia,0.26,0.385,3,-7.918,1,0.463,0.0,0.136,0.139,175.593,319040,4
+安守本份 2017 - 劇集 “使徒行者2” 插曲,Vivian Koo,['Vivian Koo'],3qxQBZNWQAZ11rj2G57Vb3,0.68,0.524,3,-8.808,0,0.689,0.0,0.116,0.19,123.954,245357,4
+記得,JJ Lin,['JJ Lin'],2ZCn7ldYJ7doogRaGgXfNI,0.485,0.268,7,-8.133,1,0.897,0.0,0.1,0.388,120.647,287805,4
+空窗,辛曉琪,['辛曉琪'],3aoFNk1KGCLGKdoDo5J0hG,0.444,0.702,9,-6.165,1,0.44,0.0,0.496,0.179,171.935,287200,4
+掉了,A-Mei Chang,['A-Mei Chang'],4WJrPDdryMRaKnkJWWex37,0.542,0.45,1,-6.792,1,0.801,0.0,0.0874,0.146,162.071,235600,4
+Wifey (feat.MC MONG),NS Yoon-G,['NS Yoon-G'],1ixfHmmfbLflIE7XTZpLUU,0.771,0.702,6,-3.99,0,0.0829,0.0,0.179,0.798,89.016,210604,4
+I Need U,BTS,['BTS'],3RlcLpMmRvSd84Uw6Yt4Iw,0.486,0.88,5,-3.097,0,0.0215,0.0,0.24,0.71,158.043,210987,4
+陪在你身邊,化學猴子,['化學猴子'],35vBGpv0ciVOgFTp1UlGYu,0.46,0.638,6,-6.708,1,0.119,0.0,0.0915,0.449,146.026,267880,4
+下雨天,Nan Quan Mama,['Nan Quan Mama'],63Qpnrn403cKcE8Y1N0nx0,0.516,0.545,4,-6.761,1,0.593,0.0,0.361,0.274,127.968,253080,4
+Red,HyunA,['HyunA'],5Fl3tBJteMGw8wqWuBe7kD,0.582,0.938,9,-1.829,1,0.00287,0.0,0.395,0.56,163.91,199800,4
+This Is the Moment,Selectracks,['Selectracks'],7iGf7mj3yfIdPSJR2GYpSa,0.532,0.88,7,-4.972,1,0.00123,0.00169,0.214,0.708,98.013,219107,4
+"畢業之後 - 劇集 “老表,畢業喇!” 主題曲",Mag Lam,['Mag Lam'],58SWZ4MWJh6By9ERLp3O24,0.491,0.32,1,-10.026,1,0.709,0.0,0.125,0.729,201.871,169445,4
+Noi Nay Co Anh,Sơn Tùng M-TP,['Sơn Tùng M-TP'],6efaWmqWQxnWFGcFN2BqDW,0.523,0.85,0,-5.245,1,0.0449,0.000827,0.13,0.37,91.983,260128,4
+Run,BTS,['BTS'],0PAq1DRlOGBAjXLno94j6b,0.554,0.878,11,-3.02,0,0.00146,0.0,0.0998,0.55,132.889,236748,4
+Betrayal,Aska Yang,['Aska Yang'],4YJQz7EQ4xs1uHyd5tNVoj,0.469,0.525,11,-7.292,1,0.598,0.0,0.15,0.237,134.024,325293,4
+淚光閃爍,F.I.R.,['F.I.R.'],0NhWo7GPlaaUijFlBL2lsG,0.403,0.589,8,-3.651,1,0.346,0.0,0.165,0.267,132.524,270893,4
+Handwritten,Amy & Ellen,['Amy & Ellen'],1LhxE1MsteYbFmZA8lgFaN,0.678,0.556,9,-6.951,1,0.579,2.24e-05,0.0722,0.526,123.964,240743,4
+愛我別走,Zhang Zhen Yue,['Zhang Zhen Yue'],2fc2vUA5H3mTAr9rQoBDKt,0.646,0.356,0,-10.804,1,0.552,1.63e-06,0.0964,0.684,90.079,284467,4
+Blood Sweat & Tears,BTS,['BTS'],5RGf8qn1TBWVplLyyKUsuV,0.583,0.885,0,-3.571,0,0.0244,0.0,0.357,0.601,92.959,217052,4
+來不及,劉瑞琦,['劉瑞琦'],2zjNk0Q9PdUTQUw16YmNni,0.367,0.194,8,-10.662,1,0.881,5.49e-06,0.116,0.332,142.791,258872,4
+Just a Dream (MENG YI CHANG),Olivia Ong,['Olivia Ong'],2x3r1z1EzMQpDC6CrRJ0tx,0.36,0.274,2,-10.422,1,0.918,0.0,0.131,0.332,207.177,230507,4
+零界點 On Fire,Lu Han,"['Lu Han', 'AR']",4FwTLqe3Gvljt9VPTj2ho5,0.681,0.914,11,-5.091,0,0.0332,1.09e-06,0.334,0.367,153.818,216906,4
+那些年,MICappella,['MICappella'],627VX3c9q5VJNLk6H6b639,0.487,0.363,4,-9.655,1,0.805,0.0,0.182,0.139,78.094,297987,4
+你就像個小孩,A-do,['A-do'],28dE9cYKOwjtMPCNdxOBNq,0.593,0.462,4,-6.081,1,0.664,0.0,0.0988,0.233,119.927,270678,4
+Kong,Justin Lo,['Justin Lo'],4nTY9wx51mR51Pbo5ETuhZ,0.603,0.338,1,-13.619,1,0.563,0.0,0.104,0.341,133.975,244019,4
+時差 On call,Lu Han,['Lu Han'],4rhGO5Y8NzCHVt37jPaOLI,0.601,0.529,4,-7.241,0,0.19,0.0,0.107,0.281,131.066,199504,4
+Good day,IU,['IU'],1SwZVVH9BnXtLRLi2cbFhw,0.643,0.878,9,-2.998,1,0.163,0.0,0.105,0.583,128.035,233613,4
+思念是一種病,Zhang Zhen Yue,['Zhang Zhen Yue'],5JaPBs2aQjEfLwM5kVb4jq,0.818,0.483,2,-4.974,1,0.0581,0.000509,0.122,0.449,90.025,255721,4
+天使也會受傷,小男孩樂團,['小男孩樂團'],3gLBLSmqKSMys9kYcEFDbH,0.532,0.712,6,-6.348,1,0.00756,0.0,0.0991,0.477,126.124,289259,4
+Outro: Wings,BTS,['BTS'],1yEzWCIc2MUt9Fw1p25YUo,0.654,0.903,11,-3.117,0,0.00503,0.0,0.0875,0.659,124.988,225447,4
+Hobgoblin,CLC,['CLC'],2JTjDYA0vfx8sp5XMTbeqU,0.621,0.873,11,-2.888,0,0.0194,0.0,0.488,0.401,169.91,210478,4
+長城,Beyond,['Beyond'],7rr7x93CJNAhQv5jXDjRe6,0.394,0.771,7,-6.079,1,0.326,1.15e-06,0.11,0.307,157.072,290160,4
+愛*轉角,Show Luo,['Show Luo'],1TFGynJGpBUBJBoH4AO26g,0.634,0.402,8,-8.781,1,0.738,0.0,0.123,0.232,147.031,293933,4
+Skin to skin,Lu Han,['Lu Han'],6U3MZ11t5sy4zkYAytZ5R1,0.548,0.477,11,-7.563,0,0.599,0.00333,0.0806,0.309,167.874,216333,4
+Bubble Pop!,HyunA,['HyunA'],59JkwCdGIMTZYb0j75vebU,0.833,0.872,10,-4.658,0,0.0731,0.000839,0.292,0.774,145.973,212271,4
+One Dance,Drake,"['Drake', 'WizKid', 'Kyla']",12VWzyPDBCc8fqeWCAfNwR,0.792,0.625,1,-5.609,1,0.00776,0.00188,0.329,0.37,103.967,173987,4
+Black Beatles,Rae Sremmurd,"['Rae Sremmurd', 'Gucci Mane']",6fujklziTHa8uoM5OQSfIo,0.794,0.632,0,-6.163,1,0.142,0.0,0.128,0.355,145.926,291893,4
+眉飛色舞,Sammi Cheng,"['Sammi Cheng', 'Simon Li @ Wave Studio(HK)']",2b7vlGKvSqwNftCncVHog0,0.792,0.907,3,-5.956,0,0.0327,0.107,0.284,0.823,139.991,196333,4
+Too Good,Drake,"['Drake', 'Rihanna']",7fJtPlEZKxu6gvkfBFc5tW,0.793,0.653,7,-7.839,1,0.0484,4.91e-05,0.1,0.393,117.993,263373,4
+告白氣球,Jay Chou,['Jay Chou'],1ivCIgrYZyE0BvItL4Z8lk,0.59,0.572,11,-7.658,1,0.192,0.0,0.109,0.448,179.989,215147,4
+Bang Bang,Jessie J,"['Jessie J', 'Ariana Grande', 'Nicki Minaj']",0puf9yIluy9W0vpMEUoAnN,0.706,0.786,0,-3.417,0,0.26,0.0,0.38,0.751,150.028,199387,4
+One Dance (feat. Harper),Conor Maynard,"['Conor Maynard', 'Harper']",0ENy870oF03JUjU41Zf9iP,0.394,0.443,1,-5.928,1,0.2,7.14e-06,0.268,0.312,103.051,190822,4
+Do It,Tuxedo,['Tuxedo'],3z2dDU9lpmEAseRdzxub64,0.818,0.858,1,-4.219,0,0.0642,0.256,0.256,0.753,119.605,258503,4
+In the Name of Love,Martin Garrix,"['Martin Garrix', 'Bebe Rexha']",23L5CiUhw2jV1OIMwthR3S,0.501,0.519,4,-5.88,0,0.109,0.0,0.454,0.168,133.99,195707,4
+Into You,Ariana Grande,['Ariana Grande'],2meEiZKWkiN28gITzFwQo5,0.623,0.734,9,-5.948,1,0.0162,1.75e-06,0.145,0.37,107.853,244453,4
+高山低谷 - Studio Version,Sammi Cheng,['Sammi Cheng'],5skSKOg58cRkPEAjjWmWln,0.479,0.581,4,-7.955,1,0.457,0.0,0.188,0.502,143.997,248987,4
+Cold Water,Major Lazer,"['Major Lazer', 'Justin Bieber', 'MØ']",7zsXy7vlHdItvUSH8EwQss,0.608,0.798,6,-5.092,0,0.0736,0.0,0.156,0.501,92.943,185360,4
+Closer,The Chainsmokers,"['The Chainsmokers', 'Halsey']",7BKLCZ1jbUBVqRi2FVlTVw,0.748,0.524,8,-5.599,1,0.414,0.0,0.111,0.661,95.01,244960,4
+Treat You Better,Shawn Mendes,['Shawn Mendes'],1mSlftOO1dlDRXAyOE0Sbd,0.448,0.817,10,-4.069,0,0.128,0.0,0.105,0.709,83.015,187973,4
+This Is What You Came For (feat. Rihanna),Calvin Harris,"['Calvin Harris', 'Rihanna']",0azC730Exh71aQlOt9Zj3y,0.63,0.928,9,-2.787,0,0.199,0.124,0.148,0.465,123.963,222160,4
+Let Me Love You,DJ Snake,"['DJ Snake', 'Justin Bieber']",0lYBSQXN6rCTvUZvg9S0lU,0.649,0.716,8,-5.371,1,0.0863,2.63e-05,0.135,0.163,99.988,205947,4
+明明就,Jay Chou,['Jay Chou'],04x6DpeFQ72efXsD0DmWPQ,0.543,0.428,9,-8.966,1,0.14,0.0,0.0876,0.173,112.985,260387,4
+One Dance,William Singe,['William Singe'],3VTw0oAbOy7CIKR8mbSBFV,0.493,0.377,7,-11.769,1,0.58,0.0,0.11,0.272,70.59,201150,3
+不該,Jay Chou,"['Jay Chou', 'A-Mei Chang']",7LyCtbxher5m97MImn5M3l,0.441,0.619,4,-6.609,1,0.19,0.0,0.118,0.187,75.027,290133,4
+Cheap Thrills,Sia,['Sia'],27SdWb2rFzO6GWiYDBTD9j,0.628,0.698,6,-5.608,0,0.0472,0.00143,0.0907,0.732,89.976,211667,4
+非誠勿擾,Penny Tai,['Penny Tai'],051CCFZvcUIYjAGfa4dkwY,0.393,0.345,6,-11.711,1,0.835,2.18e-06,0.108,0.242,110.873,262668,1
+Grammys,Drake,"['Drake', 'Future']",2JfeUjJvP1lJkCSne9g0de,0.676,0.432,1,-9.51,1,0.00163,3.93e-06,0.0799,0.12,145.869,220427,4
+Blackbird - Remastered 2009,The Beatles,['The Beatles'],5jgFfDIR6FR0gvlA56Nakr,0.686,0.127,7,-14.361,1,0.754,1.41e-05,0.0573,0.372,93.699,138387,4
+說好的幸福呢,Jay Chou,['Jay Chou'],6W2tmkeuHKaedHhdTPnyVs,0.543,0.473,9,-7.958,0,0.345,0.0,0.134,0.24,117.61,254720,4
+Starboy,The Weeknd,"['The Weeknd', 'Daft Punk']",2IY7eOUDjw2ArKYxKa2jXc,0.682,0.592,7,-7.033,1,0.169,5.49e-06,0.136,0.5,186.041,230467,4
+Heathens,Twenty One Pilots,['Twenty One Pilots'],6i0V12jOa3mr6uu4WYhUBr,0.732,0.396,4,-9.348,0,0.0841,3.58e-05,0.105,0.548,90.024,195920,4
+L.I.E,EXID,['EXID'],4c1cUu1PFDX1YB6JDvG8vf,0.682,0.921,1,-1.261,1,0.0742,0.0,0.16,0.66,155.054,211100,4
+Hey Mama!,EXO-CBX,['EXO-CBX'],7JHiyIBneG5971rM9QFoOD,0.532,0.859,1,-4.106,1,0.0662,0.0,0.684,0.934,118.919,199796,4
+Starving,Hailee Steinfeld,"['Hailee Steinfeld', 'Grey', 'Zedd']",4Ce37cRWvM1vIGGynKcs22,0.728,0.616,4,-4.238,1,0.378,0.0,0.105,0.508,99.962,181880,4
+聽見下雨的聲音,Jay Chou,['Jay Chou'],0nt1LAZjaTjrf30S8hdRDU,0.367,0.726,4,-6.773,1,0.0294,0.0,0.337,0.271,172.121,279293,4
+Don't Let Me Down (feat. Daya),The Chainsmokers,"['The Chainsmokers', 'Daya']",1i1fxkWeaMmKEB4T7zqbzK,0.532,0.869,11,-5.094,1,0.157,0.00508,0.136,0.422,159.803,208373,4
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Lil Wayne,"['Lil Wayne', 'Wiz Khalifa', 'Imagine Dragons', 'X Ambassadors', 'Logic', 'Ty Dolla $ign']",4dASQiO1Eoo3RJvt74FtXB,0.502,0.786,9,-4.378,0,0.255,0.0,0.65,0.739,169.021,243491,4
+The Ocean (feat. Shy Martin),Mike Perry,"['Mike Perry', 'SHY Martin']",2CPqh63wRVscbceKcPxwvv,0.632,0.575,5,-6.478,1,0.0225,1.81e-06,0.104,0.188,90.037,183414,4
+All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version],Jay Park,"['Jay Park', 'Hoody', 'Loco']",149wehc4FMDdj685CAAFRK,0.4,0.724,8,-6.064,1,0.375,0.0,0.0927,0.43,96.782,216786,4
+Ride,Twenty One Pilots,['Twenty One Pilots'],2Z8WuEywRWYTKe1NybPQEW,0.645,0.713,6,-5.355,1,0.00835,0.0,0.113,0.566,74.989,214507,4
+PLAYING WITH FIRE,BLACKPINK,['BLACKPINK'],5ANbXf5qR48a4jfFnSq80w,0.707,0.758,4,-4.511,0,0.0399,0.0,0.141,0.674,97.037,197355,4
+晴天,Jay Chou,['Jay Chou'],0F02KChKwbcQ3tk4q1YxLH,0.547,0.567,7,-7.295,1,0.276,0.000548,0.104,0.399,137.13,269747,4
+Paradise,Hyolyn,['Hyolyn'],2wUasCp2nKSNFB9eVkITvy,0.705,0.829,7,-2.398,1,0.0756,0.0,0.129,0.649,88.954,204424,4
+Very Very Very,I.O.I,['I.O.I'],6VJhf9l4ALDquID0bN51QQ,0.745,0.965,7,-1.517,1,0.146,2.29e-06,0.0796,0.766,102.994,203640,4
+1 of 1,SHINee,['SHINee'],6MXdCx8C4KoeBf2o8duV0S,0.694,0.879,5,-3.765,0,0.0635,0.0,0.0478,0.84,108.045,203885,4
+11:11,TAEYEON,['TAEYEON'],093PI3mdUvOSlvMYDwnV1e,0.445,0.528,10,-7.243,1,0.677,0.0,0.155,0.511,203.155,223452,4
+Blood Sweat & Tears,BTS,['BTS'],0oSNOJEcBIKNcQzRc5TfyR,0.585,0.887,0,-3.825,0,0.0244,0.0,0.361,0.528,92.971,217079,4
+We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,"['Charlie Puth', 'Selena Gomez']",37FXw5QGFN7uwwsLy8uAc0,0.728,0.563,1,-8.053,0,0.621,0.0,0.179,0.352,100.017,217707,4
+Hey! (Feat. Double Trouble – Basik and Innovator) - Radio Edit,e.via,['e.via'],0AtnFpgid4pvJeAVo6pMbf,0.693,0.86,10,-4.968,1,0.0354,2.56e-06,0.0932,0.556,120.037,201387,4
+Shout Out to My Ex,Little Mix,['Little Mix'],6wZ8kvKP9d1MKlNFTMZrBK,0.774,0.739,0,-4.022,1,0.0316,5.95e-06,0.119,0.823,126.002,246240,4
+Hymn for the Weekend - Seeb Remix,Coldplay,"['Coldplay', 'Seeb']",6s3GEN8wK0OMzzzZbXj0fu,0.565,0.849,0,-3.516,0,0.00868,4.68e-06,0.12,0.427,102.034,212647,4
+The Greatest,Sia,"['Sia', 'Kendrick Lamar']",3XIIOCu6B8PuGq5j61asEM,0.666,0.723,1,-6.164,1,0.0109,0.00047,0.0507,0.739,192.024,210893,4
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,['Justin Timberlake'],6JV2JOEocMgcZxYSZelKcc,0.667,0.83,0,-5.715,1,0.0123,0.0,0.191,0.701,113.03,236002,4
+Lush Life,Zara Larsson,['Zara Larsson'],0r4SsYcwvd8URat6AS2m6f,0.694,0.712,7,-3.923,0,0.133,0.0,0.211,0.799,98.022,201122,4
+I Like That,SISTAR,['SISTAR'],4wAjmojVxc6Wbeca9XvnDo,0.564,0.867,7,-3.137,0,0.0952,0.0,0.737,0.882,154.882,221371,4
+Good Luck,AOA,['AOA'],577ckDBuyYNGeqetUhbv7d,0.603,0.876,5,-3.217,0,0.0745,0.0,0.447,0.887,187.936,187025,4
+Stronger,New Creation Worship,['New Creation Worship'],7pCv3KSv2dneI5KGn0A82L,0.516,0.347,7,-8.36,1,0.459,0.0,0.111,0.0818,131.944,315909,4
+MOLAE MOLAE,I.B.I,['I.B.I'],2arh49ZwNDv1t9srQkjK5z,0.736,0.917,4,-2.755,0,0.0765,0.0,0.188,0.833,115.961,229885,4
+My Way,Calvin Harris,['Calvin Harris'],1vvNmPOiUuyCbgWmtc6yfm,0.819,0.913,4,-3.059,0,0.0935,3.72e-05,0.161,0.536,119.989,219160,4
+MoMoMo,WJSN,['WJSN'],6x8F0VYPwgT0R0ogdp2vCS,0.731,0.87,9,-1.043,1,0.144,0.0,0.314,0.692,124.0,222526,4
+"Sometimes (feat.Crush,GIRIBOY)",Geeks,['Geeks'],2ub9mtu4PfQVeG8DNjjNB0,0.858,0.646,5,-3.381,0,0.458,0.0,0.152,0.463,88.921,260225,4
+Selfish & Beautiful Girl (From WELCOME 2 BASTARZ) - 이기적인 걸 (From WELCOME 2 BASTARZ),Block B - BASTARZ,['Block B - BASTARZ'],6E3znuDnrmmoJC7Cssdlqg,0.768,0.852,0,-3.831,1,0.0519,0.0,0.0657,0.82,110.993,201421,4
+Better Me,Fiona Sit,['Fiona Sit'],2jdvfGZtKmBz6pUW6X8ZsH,0.555,0.384,11,-10.133,1,0.535,0.0,0.155,0.34,129.995,234462,4
+Faded,Alan Walker,['Alan Walker'],1brwdYwjltrJo7WHpIvbYt,0.589,0.651,6,-5.097,1,0.0291,3.2e-06,0.111,0.166,90.011,212627,4
+Scars To Your Beautiful,Alessia Cara,['Alessia Cara'],0prNGof3XqfTvNDxHonvdK,0.573,0.739,0,-5.74,1,0.0285,0.0,0.111,0.451,97.085,230227,4
+Sneakers,Humming Urban Stereo,"['Humming Urban Stereo', 'BNJX']",7jiIggJauf9M4h5EwqDDdu,0.717,0.844,1,-5.363,0,0.368,1.93e-05,0.255,0.829,110.023,232944,4
+Whatta Man (Good man),I.O.I,['I.O.I'],2MhEeappm9nGPv1p7a1YMS,0.559,0.936,6,-2.254,0,0.0063,3.85e-05,0.457,0.696,150.065,193605,4
+空港,Joey Yung,['Joey Yung'],0iv6nzDhUV9QWqmD02GePo,0.577,0.736,4,-5.68,1,0.0521,0.0,0.0869,0.603,170.023,246800,4
+Secret,WJSN,['WJSN'],1OIb1AalkGikhzCRbWgchd,0.692,0.969,7,-3.213,0,0.167,0.0,0.301,0.762,111.495,222582,4
+투명 우산 Don’t Let Me Go,SHINee,['SHINee'],3E1lp2AXRu3v4CiXJ8D5hD,0.605,0.919,7,-3.659,1,0.156,0.0,0.671,0.789,92.016,223352,4
+말했더라면 If I Told Ya,KANGTA,['KANGTA'],2MHEaG3MevcRcd8gGqfofb,0.612,0.761,0,-4.167,1,0.271,0.0,0.275,0.604,83.011,263447,4
+新貴,Joey Yung,['Joey Yung'],0REIm8x6V87NjNrbsWnqde,0.365,0.419,10,-7.178,1,0.452,0.0,0.122,0.419,69.804,261000,4
+Whoo,RAINBOW,['RAINBOW'],26b32VMw5DcaCZhwMZzjep,0.702,0.963,5,-1.07,0,0.0555,0.0,0.399,0.82,142.871,185060,4
+Still (feat.Crush),Loco,['Loco'],6z7gU9SBoBdqEaMi4jPKc2,0.727,0.731,11,-5.997,0,0.0516,0.0,0.0947,0.417,134.113,276613,4
+Healing,SEVENTEEN,['SEVENTEEN'],1nyzf00hpVfBkHlZSVJuky,0.679,0.812,2,-2.506,1,0.289,0.0,0.263,0.729,116.961,203625,4
+Dumb Dumb,Red Velvet,['Red Velvet'],0RhbQOahoOBgBE7Qx4AoSy,0.778,0.789,7,-4.297,0,0.0334,2.05e-06,0.225,0.799,145.99,202543,4
+이별을 배웠어 Always In My Heart,Lim Seul Ong,"['Lim Seul Ong', 'JOY']",4BFv0UrrqKdvoLvhM1bJAJ,0.611,0.766,9,-3.4,1,0.716,0.0,0.143,0.558,88.987,203628,4
+Make It Rain,Block B - BASTARZ,['Block B - BASTARZ'],1UlQ63O5HmXs9ytQ0cZK2G,0.594,0.828,4,-4.315,0,0.114,0.0,0.356,0.654,80.029,185058,4
+Let Me Hold You (Turn Me On),Cheat Codes,"['Cheat Codes', 'Dante Klein']",72xvRETEsd5hS1RfduciRi,0.681,0.774,1,-3.167,0,0.0992,0.0,0.35,0.267,102.924,162425,4
+This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,"['Kungs', ""Cookin' On 3 Burners""]",3YlrH4ydAKkxuej6F4Nnkl,0.786,0.69,3,-4.665,1,0.0865,9.03e-05,0.238,0.485,122.006,195561,4
+WHISTLE,BLACKPINK,['BLACKPINK'],3hfN1wQSiLPa6b1RX5Kfbj,0.822,0.712,11,-4.877,1,0.00682,0.0,0.0955,0.647,102.874,211696,4
+Needed Me,Rihanna,['Rihanna'],1Tt4sE4pXi57mTD1GCzsqm,0.671,0.314,5,-8.091,0,0.11,0.0,0.0825,0.296,110.898,191600,4
+Final Song,MØ,['MØ'],4qqArAiTPueDxIp7cf87h7,0.695,0.672,1,-6.109,0,0.014,8.44e-05,0.0756,0.245,104.988,235827,4
+I My Me Mine,4Minute,['4Minute'],4MJkyKv600tpAwihqFN6uC,0.65,0.784,11,-2.74,0,0.0073,0.0,0.105,0.489,128.024,206640,4
+Side To Side,Ariana Grande,"['Ariana Grande', 'Nicki Minaj']",1pKeFVVUOPjFsOABub0OaV,0.65,0.736,6,-5.84,0,0.0528,0.0,0.235,0.613,159.173,226160,4
+Lean On,Shin Yong Jae,['Shin Yong Jae'],5CRfiMsdEz49INDsfdwUD8,0.536,0.39,6,-7.224,1,0.759,0.0,0.116,0.227,130.252,211673,4
+Perfect Strangers,Jonas Blue,"['Jonas Blue', 'JP Cooper']",1Te8WIfLudxjHTr66BL0JK,0.731,0.822,1,-5.305,1,0.394,0.0,0.288,0.708,118.021,196613,4
+彩虹,Jay Chou,['Jay Chou'],4KJx4IOvCU2isprmXio9Xk,0.612,0.279,0,-10.306,1,0.778,0.0,0.121,0.345,147.916,261787,4
+Nothin' on You - Full Melody Version / Korean,Jay Park,['Jay Park'],0jKI1Xy9gh8s8iRUnPE2Vo,0.736,0.843,7,-4.67,0,0.0424,0.0,0.0727,0.374,109.03,276347,4
+Be With You,AZIATIX,['AZIATIX'],4JgYbtSqECfhHlRGPEBkJ7,0.674,0.886,0,-3.671,0,0.203,0.0,0.172,0.698,129.929,216982,4
+Highlight,4Minute,['4Minute'],2B9KtNLwZ1umol4FgnCNIf,0.729,0.903,5,-3.113,0,0.00607,0.0,0.304,0.675,132.965,210533,4
+Call on Me - Ryan Riback Remix,Starley,"['Starley', 'Ryan Riback']",2L6orAlH8tBhiFTumIfMyF,0.67,0.838,0,-4.031,1,0.0604,0.000611,0.159,0.717,104.998,222041,4
+First - Korean Album Version,4Minute,['4Minute'],6BntIVKpM7aGmsG9uC07NV,0.726,0.91,11,-3.631,0,0.0295,0.0,0.306,0.729,130.003,211507,4
+A Game,AZIATIX,['AZIATIX'],5s2l7IRo408ub50lfHiDOD,0.74,0.819,10,-4.829,0,0.134,0.0,0.134,0.833,163.943,198364,4
+WILD,Troye Sivan,"['Troye Sivan', 'Alessia Cara']",6JNUJnLRj5vkfnV5CcVnLu,0.624,0.804,0,-5.084,0,0.101,0.0,0.18,0.517,93.983,219492,4
+"2nd (Feat. Kjung, Steady Sketcha of Fantastik Dos)",e.via,['e.via'],7x0p3lQ9iDNMnxGhfOn1o8,0.744,0.837,5,-6.497,0,0.212,1.64e-05,0.0997,0.263,100.0,232080,4
+Hallelujah,Leonard Cohen,['Leonard Cohen'],7yzbimr8WVyAtBX3Eg6UL9,0.28,0.344,0,-12.577,1,0.715,0.00642,0.133,0.232,171.143,277160,3
+Heart To Heart,4Minute,['4Minute'],25aRiHSUNLLHTod80q9adL,0.713,0.731,6,-3.378,1,0.352,0.0,0.0657,0.507,130.006,231493,4
+Broccoli (feat. Lil Yachty),DRAM,"['DRAM', 'Lil Yachty']",7yyRTcZmCiyzzJlNzGC9Ol,0.886,0.525,8,-7.39,1,0.236,0.0,0.057,0.708,145.99,225205,4
+Fake Love,Drake,['Drake'],6NMNgWgEAzde5M8U3lc6FN,0.924,0.543,9,-7.474,0,0.182,0.0,0.103,0.736,133.907,207813,4
+우리 둘 Runnin',Henry,"['Henry', 'SOYOU']",68oQulR4Fh2Rqd4s1mXcGh,0.659,0.626,7,-6.055,1,0.5,0.0,0.165,0.394,83.944,216426,4
+Bababa,4Minute,['4Minute'],1nYDXIG3zYxNvVeuuPV94p,0.616,0.891,7,-2.398,1,0.122,0.0,0.308,0.651,154.126,206827,4
+"i hate u, i love u (feat. olivia o'brien)",gnash,"['gnash', ""Olivia O'Brien""]",7vRriwrloYVaoAe3a9wJHe,0.492,0.275,6,-13.4,0,0.687,0.0,0.101,0.18,92.6,251034,4
+Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']",5knuzwU65gJK7IF5yJsuaW,0.72,0.763,9,-4.068,0,0.406,0.0,0.18,0.742,101.965,251088,4
+Say Yeah,AZIATIX,['AZIATIX'],5lTimVrqEFQ7pd680wiSvq,0.647,0.87,9,-5.248,0,0.0936,0.0,0.369,0.663,125.012,221045,4
